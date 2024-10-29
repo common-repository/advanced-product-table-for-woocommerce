@@ -1,0 +1,1 @@
+<td class="<?php echo esc_attr(apply_filters('iwptp_cell_html_class', 'iwptp-cell iwptp-' . $column['cell']['id'])); ?>" data-iwptp-column-index="<?php echo esc_attr($column_index); ?>">

@@ -1,0 +1,42 @@
+.iwptp-product-table-list-shortcode-copy-button {
+    position: relative;
+    height: 41px;
+    border: 0;
+    background-color: #603ecd;
+    padding: 0 10px;
+    color: #fff;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    cursor: pointer;
+}
+
+.iwptp-product-table-list-shortcode-copy-button svg {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
+
+.iwptp-product-table-list-shortcode-copy-button svg path {
+    fill: #fff;
+}
+
+span.iwptp-copied {
+    display: none;
+    width: 154px;
+    height: 25px;
+    background-color: #3e3e3e;
+    color: #fff;
+    position: absolute;
+    top: 40px;
+    left: -55px;
+    right: 0;
+    margin: auto;
+    z-index: 99;
+    font-size: 12px;
+    line-height: 25px;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    z-index: 999 !important;
+}

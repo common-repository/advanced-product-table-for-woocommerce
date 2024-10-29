@@ -1,0 +1,803 @@
+{
+    "css": "",
+    "laptop": {
+        "[container] .iwptp-table": {
+            "border-top-width": "2",
+            "border-top-color": "rgb(255, 255, 255)",
+            "border-top-style": "solid",
+            "border-right-width": "",
+            "border-right-style": "solid",
+            "border-right-color": "",
+            "border-bottom-width": "",
+            "border-bottom-style": "solid",
+            "border-bottom-color": "",
+            "border-left-width": "",
+            "border-left-style": "solid",
+            "border-left-color": ""
+        },
+        "[container] .iwptp-heading-row": {
+            "border-bottom-width": "2",
+            "border-bottom-color": "rgb(255, 255, 255)",
+            "border-bottom-style": "solid"
+        },
+        "[container] .iwptp-row": {
+            "border-bottom-width": "1",
+            "border-bottom-color": "rgba(255, 255, 255, 0.4)",
+            "border-bottom-style": "solid"
+        },
+        "[container] thead th.iwptp-heading": {
+            "border-right-width": "1",
+            "border-right-color": "rgb(255, 255, 255)",
+            "border-right-style": "solid"
+        },
+        "[container] .iwptp-cell": {
+            "color": "",
+            "font-size": "",
+            "font-weight": "500",
+            "text-align": "left",
+            "font-family": "",
+            "border-right-width": "1",
+            "border-right-color": "rgb(255, 255, 255)",
+            "vertical-align": "",
+            "text-transform": "",
+            "letter-spacing": "",
+            "min-width": "",
+            "height": "",
+            "background-color": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "border-right-style": "solid"
+        },
+        "[container] thead .iwptp-heading": {
+            "text-align": "center",
+            "font-family": "",
+            "vertical-align": "middle",
+            "font-size": "",
+            "font-weight": "",
+            "color": "",
+            "text-transform": "none",
+            "letter-spacing": "",
+            "background-color": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": ""
+        },
+        "[container] .iwptp-table .iwptp-heading-row": {
+            "display": "table-row"
+        },
+        "[container]": {
+            "font-family": "",
+            "background-color": "",
+            "margin-top": "",
+            "margin-right": "",
+            "margin-bottom": "",
+            "margin-left": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "max-width": "",
+            "font-size": "",
+            "color": ""
+        },
+        "[container] tr.iwptp-odd": {
+            "background-color": "",
+            "color": ""
+        },
+        "[container] tr.iwptp-even": {
+            "background-color": "",
+            "color": ""
+        },
+        "[container] tr.iwptp-row--checked": {
+            "background-color": ""
+        },
+        "[container] tr.iwptp-odd td": {
+            "background-color": "",
+            "color": ""
+        },
+        "[container] tr.iwptp-even td": {
+            "background-color": "",
+            "color": ""
+        },
+        "[container],  [container] .iwptp-heading, [container] .iwptp-cell": {
+            "font-family": "",
+            "background-color": "rgb(57, 56, 56)",
+            "font-size": "",
+            "color": "rgb(255, 255, 255)"
+        },
+        "[container] td.iwptp-cell": {
+            "font-family": "",
+            "text-align": "center",
+            "vertical-align": "",
+            "font-size": "",
+            "font-weight": "",
+            "color": "",
+            "text-transform": "",
+            "letter-spacing": "",
+            "min-width": "",
+            "height": "",
+            "background-color": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": ""
+        },
+        "[container], [container] *": {
+            "direction": "ltr"
+        }
+    },
+    "tablet": {
+        "inherit_laptop_style": "1",
+        "[container]": {
+            "font-family": "",
+            "background-color": "",
+            "margin-top": "",
+            "margin-right": "",
+            "margin-bottom": "",
+            "margin-left": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "max-width": "",
+            "font-size": "",
+            "color": ""
+        },
+        "[container] thead .iwptp-heading": {
+            "font-family": "",
+            "text-align": "center",
+            "vertical-align": "middle",
+            "font-size": "",
+            "font-weight": "",
+            "color": "",
+            "text-transform": "none",
+            "letter-spacing": "",
+            "background-color": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": ""
+        },
+        "[container] .iwptp-cell": {
+            "border-right-width": "",
+            "border-right-style": "solid",
+            "border-right-color": "",
+            "font-family": "",
+            "text-align": "",
+            "vertical-align": "",
+            "font-size": "",
+            "font-weight": "",
+            "color": "",
+            "text-transform": "",
+            "letter-spacing": "",
+            "min-width": "",
+            "height": "",
+            "background-color": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": ""
+        },
+        "[container] .iwptp-table .iwptp-heading-row": {
+            "display": "table-row"
+        },
+        "[container] tr.iwptp-odd": {
+            "background-color": "",
+            "color": ""
+        },
+        "[container] tr.iwptp-even": {
+            "background-color": "",
+            "color": ""
+        },
+        "[container] .iwptp-table": {
+            "border-left-width": "",
+            "border-left-style": "solid",
+            "border-left-color": "",
+            "border-top-width": "",
+            "border-top-style": "solid",
+            "border-top-color": "",
+            "border-right-width": "",
+            "border-right-style": "solid",
+            "border-right-color": "",
+            "border-bottom-width": "",
+            "border-bottom-style": "solid",
+            "border-bottom-color": ""
+        },
+        "[container] .iwptp-heading-row": {
+            "border-bottom-width": "",
+            "border-bottom-style": "solid",
+            "border-bottom-color": ""
+        },
+        "[container] thead th.iwptp-heading": {
+            "border-right-width": "",
+            "border-right-style": "solid",
+            "border-right-color": ""
+        },
+        "[container] .iwptp-row": {
+            "border-bottom-width": "",
+            "border-bottom-style": "solid",
+            "border-bottom-color": ""
+        },
+        "[container] tr.iwptp-row--checked": {
+            "background-color": ""
+        },
+        "[container] tr.iwptp-odd td": {
+            "background-color": "",
+            "color": ""
+        },
+        "[container] tr.iwptp-even td": {
+            "background-color": "",
+            "color": ""
+        },
+        "[container],  [container] .iwptp-heading, [container] .iwptp-cell": {
+            "font-family": "",
+            "background-color": "",
+            "font-size": "",
+            "color": ""
+        },
+        "[container] td.iwptp-cell": {
+            "font-family": "",
+            "text-align": "",
+            "vertical-align": "",
+            "font-size": "",
+            "font-weight": "",
+            "color": "",
+            "text-transform": "",
+            "letter-spacing": "",
+            "min-width": "",
+            "height": "",
+            "background-color": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": ""
+        },
+        "[container], [container] *": {
+            "direction": "ltr"
+        }
+    },
+    "phone": {
+        "inherit_tablet_style": "",
+        "[container]": {
+            "font-family": "",
+            "background-color": "",
+            "margin-top": "",
+            "margin-right": "",
+            "margin-bottom": "",
+            "margin-left": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "max-width": "",
+            "font-size": "",
+            "color": ""
+        },
+        "[container] thead .iwptp-heading": {
+            "font-family": "",
+            "text-align": "center",
+            "vertical-align": "middle",
+            "font-size": "",
+            "font-weight": "",
+            "color": "",
+            "text-transform": "none",
+            "letter-spacing": "",
+            "background-color": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": ""
+        },
+        "[container] .iwptp-cell": {
+            "border-right-width": "",
+            "border-right-style": "solid",
+            "border-right-color": "",
+            "font-family": "",
+            "text-align": "",
+            "vertical-align": "",
+            "font-size": "",
+            "font-weight": "",
+            "color": "",
+            "text-transform": "",
+            "letter-spacing": "",
+            "min-width": "",
+            "height": "",
+            "background-color": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": ""
+        },
+        "[container] .iwptp-table .iwptp-heading-row": {
+            "display": "table-row"
+        },
+        "[container] tr.iwptp-odd": {
+            "background-color": "",
+            "color": ""
+        },
+        "[container] tr.iwptp-even": {
+            "background-color": "",
+            "color": ""
+        },
+        "[container] .iwptp-table": {
+            "border-left-width": "",
+            "border-left-style": "solid",
+            "border-left-color": "",
+            "border-top-width": "",
+            "border-top-style": "solid",
+            "border-top-color": "",
+            "border-right-width": "",
+            "border-right-style": "solid",
+            "border-right-color": "",
+            "border-bottom-width": "",
+            "border-bottom-style": "solid",
+            "border-bottom-color": ""
+        },
+        "[container] .iwptp-heading-row": {
+            "border-bottom-width": "",
+            "border-bottom-style": "solid",
+            "border-bottom-color": ""
+        },
+        "[container] thead th.iwptp-heading": {
+            "border-right-width": "",
+            "border-right-style": "solid",
+            "border-right-color": ""
+        },
+        "[container] .iwptp-row": {
+            "border-bottom-width": "",
+            "border-bottom-style": "solid",
+            "border-bottom-color": ""
+        },
+        "[container] tr.iwptp-row--checked": {
+            "background-color": ""
+        },
+        "[container] tr.iwptp-odd td": {
+            "background-color": "",
+            "color": ""
+        },
+        "[container] tr.iwptp-even td": {
+            "background-color": "",
+            "color": ""
+        },
+        "[container],  [container] .iwptp-heading, [container] .iwptp-cell": {
+            "font-family": "",
+            "background-color": "",
+            "font-size": "",
+            "color": ""
+        },
+        "[container] td.iwptp-cell": {
+            "font-family": "",
+            "text-align": "",
+            "vertical-align": "",
+            "font-size": "",
+            "font-weight": "",
+            "color": "",
+            "text-transform": "",
+            "letter-spacing": "",
+            "min-width": "",
+            "height": "",
+            "background-color": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": ""
+        },
+        "[container], [container] *": {
+            "direction": "ltr"
+        }
+    },
+    "navigation": {
+        "[container] .iwptp-left-sidebar.iwptp-navigation": {
+            "font-family": "",
+            "width": "",
+            "gap": "",
+            "float": "left",
+            "background-color": "",
+            "font-size": "",
+            "color": "",
+            "font-weight": "",
+            "border-width": "",
+            "border-style": "solid",
+            "border-color": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": ""
+        },
+        "[container] .iwptp-header.iwptp-navigation": {
+            "font-family": "",
+            "margin-bottom": "",
+            "row_gap": "",
+            "font-size": "",
+            "line-height": "",
+            "color": "rgb(0, 0, 0)",
+            "font-weight": "",
+            "background-color": "",
+            "border-width": "",
+            "border-style": "solid",
+            "border-color": "",
+            "border-radius": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": ""
+        },
+        "[container] .iwptp-footer.iwptp-navigation": {
+            "font-family": "",
+            "margin-bottom": "",
+            "row_gap": "",
+            "font-size": "",
+            "line-height": "",
+            "color": "",
+            "font-weight": "",
+            "background-color": "",
+            "border-width": "",
+            "border-style": "solid",
+            "border-color": "",
+            "border-radius": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": ""
+        },
+        "[data-iwptp-table-id='[id]'].iwptp-nav-modal .iwptp-nm-content": {
+            "font-family": "",
+            "background-color": "",
+            "font-size": "",
+            "color": "",
+            "font-weight": ""
+        },
+        "[container] .iwptp-pagination > .page-numbers": {
+            "font-family": "",
+            "font-size": "",
+            "line-height": "",
+            "color": "rgb(255, 255, 255)",
+            "color:hover": "rgb(215, 215, 215)",
+            "color:selected": "rgb(203, 192, 192)",
+            "font-weight": "",
+            "background-color": "",
+            "background-color:hover": "",
+            "background-color:selected": "",
+            "border-width": "",
+            "border-style": "solid",
+            "border-color": "",
+            "border-color:hover": "",
+            "border-color:selected": "",
+            "border-radius": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "margin-top": "",
+            "margin-right": "",
+            "margin-bottom": "",
+            "margin-left": ""
+        },
+        "[container] .iwptp-left-sidebar.iwptp-navigation > div.iwptp-item-row > div": {
+            "border-width": "",
+            "border-style": "solid",
+            "border-color": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": ""
+        },
+        "[container] .iwptp-left-sidebar.iwptp-navigation .iwptp-dropdown.iwptp-filter > .iwptp-filter-heading": {
+            "font-size": "",
+            "color": "",
+            "font-weight": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": ""
+        },
+        "[container] .iwptp-left-sidebar.iwptp-navigation .iwptp-dropdown.iwptp-filter > .iwptp-dropdown-menu, [container] .iwptp-left-sidebar.iwptp-navigation .iwptp-dropdown.iwptp-filter > .iwptp-options": {
+            "font-size": "",
+            "color": "",
+            "font-weight": "",
+            "max-height": ""
+        },
+        "[container] .iwptp-left-sidebar.iwptp-navigation .iwptp-dropdown.iwptp-filter > .iwptp-dropdown-menu .iwptp-search-filter-options, [container] .iwptp-left-sidebar.iwptp-navigation .iwptp-dropdown.iwptp-filter > .iwptp-options .iwptp-search-filter-options": {
+            "font-size": "",
+            "background-color": "",
+            "height": "",
+            "border-width": "",
+            "border-style": "solid",
+            "border-color": "",
+            "border-radius": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "margin-top": "",
+            "margin-bottom": ""
+        },
+        "[container] .iwptp-header.iwptp-navigation .iwptp-dropdown.iwptp-filter > .iwptp-filter-heading": {
+            "font-size": "",
+            "font-weight": "normal",
+            "color": "",
+            "color:hover": "",
+            "color:active": "",
+            "background-color": "",
+            "background-color:hover": "",
+            "background-color:active": "",
+            "border-color": "",
+            "border-color:hover": "",
+            "border-color:active": "",
+            "border-radius": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "margin-top": "",
+            "margin-right": "",
+            "margin-bottom": "",
+            "margin-left": ""
+        },
+        "[container] .iwptp-header.iwptp-navigation .iwptp-dropdown.iwptp-filter > .iwptp-dropdown-menu": {
+            "font-size": "",
+            "font-weight": "",
+            "color": "",
+            "background-color": "",
+            "border-color": "",
+            "border-radius": "",
+            "width": "",
+            "max-height": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "margin-top": "",
+            "margin-right": "",
+            "margin-bottom": "",
+            "margin-left": ""
+        },
+        "[container] .iwptp-header.iwptp-navigation .iwptp-dropdown.iwptp-filter > .iwptp-dropdown-menu .iwptp-search-filter-options": {
+            "font-size": "",
+            "background-color": "",
+            "height": "",
+            "border-width": "",
+            "border-style": "solid",
+            "border-color": "",
+            "border-radius": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "margin-top": "",
+            "margin-bottom": ""
+        },
+        "[container] .iwptp-header.iwptp-navigation .iwptp-options-row.iwptp-filter > .iwptp-filter-heading": {
+            "font-size": "",
+            "font-weight": "normal",
+            "color": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "margin-top": "",
+            "margin-right": "",
+            "margin-bottom": "",
+            "margin-left": ""
+        },
+        "[container] .iwptp-header.iwptp-navigation .iwptp-options-row.iwptp-filter > .iwptp-options > .iwptp-option": {
+            "font-size": "",
+            "font-weight": "",
+            "color": "",
+            "color:hover": "",
+            "color:selected": "",
+            "background-color": "",
+            "background-color:hover": "",
+            "background-color:selected": "",
+            "border-color": "",
+            "border-color:hover": "",
+            "border-color:selected": "",
+            "border-radius": "",
+            "width": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "margin-top": "",
+            "margin-right": "",
+            "margin-bottom": "",
+            "margin-left": ""
+        },
+        "[container] .iwptp-footer.iwptp-navigation .iwptp-dropdown.iwptp-filter > .iwptp-filter-heading": {
+            "font-size": "",
+            "font-weight": "normal",
+            "color": "",
+            "color:hover": "",
+            "color:active": "",
+            "background-color": "",
+            "background-color:hover": "",
+            "background-color:active": "",
+            "border-color": "",
+            "border-color:hover": "",
+            "border-color:active": "",
+            "border-radius": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "margin-top": "",
+            "margin-right": "",
+            "margin-bottom": "",
+            "margin-left": ""
+        },
+        "[container] .iwptp-footer.iwptp-navigation .iwptp-dropdown.iwptp-filter > .iwptp-dropdown-menu": {
+            "font-size": "",
+            "font-weight": "",
+            "color": "",
+            "background-color": "",
+            "border-color": "",
+            "border-radius": "",
+            "width": "",
+            "max-height": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "margin-top": "",
+            "margin-right": "",
+            "margin-bottom": "",
+            "margin-left": ""
+        },
+        "[container] .iwptp-footer.iwptp-navigation .iwptp-dropdown.iwptp-filter > .iwptp-dropdown-menu .iwptp-search-filter-options": {
+            "font-size": "",
+            "background-color": "",
+            "height": "",
+            "border-width": "",
+            "border-style": "solid",
+            "border-color": "",
+            "border-radius": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "margin-top": "",
+            "margin-bottom": ""
+        },
+        "[container] .iwptp-footer.iwptp-navigation .iwptp-options-row.iwptp-filter > .iwptp-filter-heading": {
+            "font-size": "",
+            "font-weight": "normal",
+            "color": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "margin-top": "",
+            "margin-right": "",
+            "margin-bottom": "",
+            "margin-left": ""
+        },
+        "[container] .iwptp-footer.iwptp-navigation .iwptp-options-row.iwptp-filter > .iwptp-options > .iwptp-option": {
+            "font-size": "",
+            "font-weight": "",
+            "color": "",
+            "color:hover": "",
+            "color:selected": "",
+            "background-color": "",
+            "background-color:hover": "",
+            "background-color:selected": "",
+            "border-color": "",
+            "border-color:hover": "",
+            "border-color:selected": "",
+            "border-radius": "",
+            "width": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "margin-top": "",
+            "margin-right": "",
+            "margin-bottom": "",
+            "margin-left": ""
+        },
+        "[data-iwptp-table-id='[id]'].iwptp-nav-modal .iwptp-nm-content a.iwptp-nm-close": {
+            "color": ""
+        },
+        "[data-iwptp-table-id='[id]'].iwptp-nav-modal .iwptp-nm-content .iwptp-nm-apply": {
+            "background-color": "",
+            "color": ""
+        },
+        "[data-iwptp-table-id='[id]'].iwptp-nav-modal .iwptp-nm-content .iwptp-nm-reset": {
+            "background-color": "",
+            "color": ""
+        },
+        "[container] .iwptp-pagination": {
+            "width": "",
+            "margin-top": ""
+        },
+        "[container] .iwptp-pagination > .page-numbers.next .iwptp-icon, [container] .iwptp-pagination > .page-numbers.prev .iwptp-icon": {
+            "font-size": "",
+            "stroke-width": "",
+            "color": ""
+        },
+        "[container] .iwptp-pagination > .iwptp-page-numbers": {
+            "font-family": "",
+            "font-size": "",
+            "line-height": "",
+            "color": "",
+            "color:hover": "",
+            "color:selected": "",
+            "font-weight": "",
+            "background-color": "",
+            "background-color:hover": "",
+            "background-color:selected": "",
+            "border-width": "",
+            "border-style": "none",
+            "border-color": "",
+            "border-color:hover": "",
+            "border-color:selected": "",
+            "border-radius": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "margin-top": "",
+            "margin-right": "",
+            "margin-bottom": "",
+            "margin-left": ""
+        },
+        "[container] .iwptp-pagination > .iwptp-page-numbers.next .iwptp-icon, [container] .iwptp-pagination > .iwptp-page-numbers.prev .iwptp-icon": {
+            "font-size": "",
+            "stroke-width": ""
+        }
+    },
+    "mini_cart": {
+        "[container] .iwptp-mini-cart .iwptp-cart-header, .iwptp-cart-widget": {
+            "font-size": "",
+            "font-family": ""
+        },
+        "[container] .iwptp-mini-cart .iwptp-mini-cart-meta, .iwptp-cart-widget .iwptp-cw-qty-total, .iwptp-cart-widget .iwptp-cw-separator, .iwptp-cart-widget .iwptp-cw-price-total, .iwptp-mini-cart-inline-mode-container .iwptp-mini-cart-meta": {
+            "font-size": "",
+            "font-family": ""
+        },
+        "[container] .iwptp-mini-cart .iwptp-cart-button-fixed .woocommerce-Price-amount": {
+            "font-size": ""
+        },
+        "[container] .iwptp-mini-cart .iwptp-cart-button-fixed .status-button": {
+            "font-size": ""
+        },
+        ".iwptp-cart-widget": {
+            "border-color": "",
+            "font-weight": ""
+        },
+        "[container] .iwptp-mini-cart .iwptp-cart-button-fixed": {
+            "background-color": "",
+            "color": ""
+        },
+        ".iwptp-mini-cart .iwptp-cart-popup, .iwptp-cart-widget, .iwptp-mini-cart-inline-mode-container": {
+            "background-color": ""
+        },
+        ".iwptp-mini-cart .iwptp-cart-popup .iwptp-mini-cart-close-button.close svg path:first-child": {
+            "fill": ""
+        },
+        ".iwptp-mini-cart .iwptp-cart-popup .iwptp-mini-cart-close-button.close svg path:last-child": {
+            "fill": ""
+        },
+        ".iwptp-mini-cart .iwptp-mini-cart-item-info strong, .iwptp-mini-cart-inline-mode-container .iwptp-mini-cart-item-info strong": {
+            "color": ""
+        },
+        ".iwptp-mini-cart .iwptp-mini-cart-meta, .iwptp-mini-cart-inline-mode-container .iwptp-mini-cart-meta, .iwptp-cart-widget .iwptp-mini-cart-meta": {
+            "color": ""
+        },
+        ".iwptp-mini-cart-float-toggle-container .iwptp-cart-footer .buttons a, .iwptp-mini-cart-float-side-container .iwptp-cart-footer .buttons a, .iwptp-mini-cart-inline-mode-container .iwptp-mini-cart-inline-mode-bottom button, .iwptp-mini-cart-inline-mode-container .iwptp-mini-cart-inline-mode-bottom a, .iwptp-min-cart-default-button": {
+            "background-color": "",
+            "color": ""
+        },
+        ".iwptp-mini-cart-float-toggle-container .iwptp-cart-footer .buttons a:hover, .iwptp-mini-cart-float-side-container .iwptp-cart-footer .buttons a:hover, .iwptp-mini-cart-inline-mode-container .iwptp-mini-cart-inline-mode-bottom button:hover, .iwptp-mini-cart-inline-mode-container .iwptp-mini-cart-inline-mode-bottom a:hover, .iwptp-min-cart-default-button:hover": {
+            "background-color": "",
+            "color": ""
+        },
+        ".iwptp-cart-widget, .iwptp-mini-cart-inline-mode-container": {
+            "border-color": ""
+        }
+    },
+    "checkbox_trigger": null,
+    "html_class": ""
+}

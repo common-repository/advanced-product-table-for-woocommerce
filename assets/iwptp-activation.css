@@ -1,0 +1,269 @@
+#wpcontent {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+#iwptp-header {
+    width: 100%;
+    height: 160px;
+    background: url(../editor/assets/images/background-header.jpg) no-repeat center center;
+    background-size: cover;
+    position: relative;
+}
+
+.iwptp-plugin-title {
+    position: absolute;
+    color: #fff;
+    top: 45px;
+    left: 45px;
+}
+
+.iwptp-plugin-name {
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 7px;
+}
+
+.iwptp-plugin-name img {
+    margin: 2px 7px 0 0;
+    float: left;
+}
+
+.iwptp-plugin-description {
+    font-size: 13px;
+    margin-left: 7px;
+}
+
+.iwptp-header-left {
+    float: right;
+    height: auto;
+    margin: 50px 3% 0 0;
+}
+
+.iwptp-full-screen {
+    float: right;
+    margin: 0 8px 0 0;
+    cursor: pointer;
+    height: 50px;
+    line-height: 50px;
+}
+
+.iwptp-plugin-help {
+    float: right;
+    margin: 0;
+    height: 50px;
+    line-height: 50px;
+}
+
+.iwptp-plugin-help span,
+.iwptp-full-screen span {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+    padding: 0 20px;
+}
+
+.iwptp-plugin-help>span>a,
+.iwptp-full-screen>span>i {
+    color: #ffffff;
+}
+
+.iwptp-full-screen>span>i {
+    font-size: 26px;
+    width: 26px;
+    height: 26px;
+    line-height: 50px;
+}
+
+.iwptp-wrap {
+    width: 96%;
+    margin: 0 2%;
+}
+
+#iwptp-license-info .iwptp-check-for-update,
+#iwptp-license-info .iwptp-check-for-update-loading {
+    display: inline-block;
+    width: auto;
+    margin: 0;
+}
+
+#iwptp-license-info .iwptp-check-for-update-loading {
+    height: 26px;
+    display: none;
+}
+
+#iwptp-license-info .iwptp-new-version {
+    color: #7dc480;
+    margin-left: 10px;
+}
+
+#iwptp-license-info .iwptp-check-for-update-loading img {
+    vertical-align: middle;
+    margin-top: -3px;
+}
+
+.iwptp-update-button {
+    padding: 0 8px;
+    height: 28px;
+    line-height: 26px;
+    border: 0;
+    font-size: 13px;
+    margin-left: 10px;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+}
+
+.sweet-alert h2 {
+    padding-top: 10px;
+}
+
+#iwptp-activation-info {
+    width: 100%;
+    display: block;
+    position: relative;
+    background: #f6f6f6;
+    font-size: 11pt;
+    padding: 30px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-radius: 7px;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    overflow: hidden;
+}
+
+#iwptp-activation-info h1 {
+    line-height: 30px;
+    font-size: 14pt;
+    margin-bottom: 40px;
+}
+
+#iwptp-activation-info .iwptp-activation-status {
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block !important;
+}
+
+#iwptp-activation-info .iwptp-activation-status-active {
+    border-top: 50px solid #00a651;
+    border-right: 50px solid #00a651;
+    border-bottom: 50px solid transparent;
+    border-left: 50px solid transparent;
+}
+
+#iwptp-activation-info .iwptp-activation-status-deactivated {
+    border-top: 50px solid #e7a30f;
+    border-right: 50px solid #e7a30f;
+    border-bottom: 50px solid transparent;
+    border-left: 50px solid transparent;
+}
+
+#iwptp-activation-info .iwptp-activation-status-active span,
+#iwptp-activation-info .iwptp-activation-status-deactivated span {
+    width: 32px;
+    height: 32px;
+    font-size: 32px;
+    position: absolute;
+    top: -35px;
+    right: -35px;
+    color: #fff;
+}
+
+#iwptp-activation-info .iwptp-activation-renew {
+    width: 100%;
+    float: right;
+    margin: 0;
+}
+
+#iwptp-activation-info .iwptp-activation-renew button {
+    float: right;
+    margin: 0 !important;
+}
+
+#iwptp-activation-info h1 form {
+    float: right;
+}
+
+#iwptp-activation-info div {
+    width: 100%;
+    display: inline-table;
+    margin: 0 0 10px 0;
+}
+
+#iwptp-activation-info .iwptp-activation-info-half {
+    display: inline-table;
+    width: 100%;
+}
+
+#iwptp-activation-info .iwptp-activation-info-half div {
+    float: left;
+    width: 50%;
+}
+
+#iwptp-activation-info div span {
+    width: 150px;
+    float: left;
+    margin-bottom: 15px;
+}
+
+#iwptp-activation-form {
+    display: inline-table;
+    width: 100%;
+    padding: 15px;
+    background-color: #fff;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 1px #dbdbdb solid;
+    font-size: 11pt;
+    margin: 10px 0;
+}
+
+#iwptp-activation-form label {
+    min-width: 17%;
+    height: 45px;
+    font-weight: bold;
+    float: left;
+    line-height: 45px;
+}
+
+#iwptp-activation-form input[type=text],
+#iwptp-activation-form input[type=number],
+#iwptp-activation-form select,
+#iwptp-activation-form input[type=email] {
+    width: 50%;
+    max-width: 50%;
+    height: 45px !important;
+    font-weight: bold;
+    float: left;
+}
+
+#iwptp-activation-form input[type=checkbox] {
+    margin-top: 15px;
+    float: left;
+}
+
+#iwptp-activation-form span {
+    float: left;
+    margin-left: 10px;
+    font: italic 16px Calibri, Tahoma;
+    line-height: 45px;
+}
+
+#iwptp-activation-form button {
+    float: right;
+    padding: 0 23px;
+}
+
+.iwptp-activation-field {
+    width: 100%;
+    float: left;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,290 @@
+.it-product-table_page_iwptp-edit #wpadminbar,
+.it-product-table_page_iwptp-edit #adminmenuback,
+.it-product-table_page_iwptp-edit #adminmenuwrap {
+    display: block !important;
+}
+
+.it-product-table_page_iwptp-edit #wpcontent,
+.it-product-table_page_iwptp-edit #wpfooter {
+    padding-left: 160px !important;
+}
+
+.iwptp-preset-outer {
+    background: #fff;
+    display: inline-block;
+    width: 100%;
+    padding: 20px 0 0 0;
+}
+
+h2.iwptp-preset-heading {
+    font-size: 20px !important;
+    margin: 0 0 15px !important;
+}
+
+ul.iwptp-preset-context-message {
+    list-style: circle !important;
+    padding-left: 20px !important;
+    color: #444;
+    margin-bottom: 25px;
+    font-size: 15px;
+}
+
+.iwptp-presets {
+    float: left;
+    width: 101%;
+    margin-left: -1%;
+}
+
+.iwptp-presets:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.iwptp-presets__item__image {
+    width: 100%;
+    height: 150px;
+    float: left;
+    text-align: center;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.iwptp-presets__item__image img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 150px;
+    vertical-align: middle;
+    position: relative;
+    z-index: 1;
+}
+
+.iwptp-presets__item__image .iwptp-presets__item__image__cover {
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 2;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.iwptp-presets__item__image .iwptp-presets__item__image__cover svg {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+
+.iwptp-presets__item__image .iwptp-presets__item__image__cover svg path {
+    fill: #e9e9e9;
+}
+
+.iwptp-preset-image-preview {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+.iwptp-preset-image-preview img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+
+.iwptp-presets__item__name {
+    display: block;
+    font-size: 18px;
+}
+
+.iwptp-presets__item__byline {
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.iwptp-presets__item__name__selected,
+.iwptp-presets__item__name__select {
+    float: right;
+}
+
+.iwptp-presets__item__name__selected,
+.iwptp-presets__item__name__select {
+    position: absolute;
+    height: 27px;
+    line-height: 27px;
+    bottom: 25px;
+    right: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    vertical-align: middle;
+    background: #0f9c1d;
+    color: white;
+    padding: 0 5px;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    transition: .2s opacity;
+    opacity: 0;
+    text-transform: uppercase;
+}
+
+.iwptp-presets__item:hover .iwptp-presets__item__image__cover {
+    display: block;
+}
+
+.iwptp-presets__item:hover .iwptp-presets__item__image img {
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.iwptp-presets__item:hover .iwptp-presets__item__name__select {
+    opacity: 1;
+}
+
+.iwptp-presets__item.selected:hover .iwptp-presets__item__name__select {
+    opacity: 0;
+}
+
+.iwptp-presets__item.selected .iwptp-presets__item__name__selected {
+    opacity: 1;
+}
+
+.iwptp-presets__item.selected .iwptp-presets__item__name__select {
+    opacity: 0;
+}
+
+.iwptp-presets__item {
+    width: 24%;
+    height: 240px;
+    float: left;
+    padding: 15px;
+    margin: 10px 0 10px 1%;
+    cursor: pointer;
+    border: 2px solid #777;
+    text-align: left;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    transition: all .2s;
+    -moz-transition: all .2s;
+    -webkit-transition: all .2s;
+    position: relative;
+}
+
+.iwptp-presets__item:not(.iwptp-disabled):hover {
+    border-color: #2196F3;
+    box-shadow: 0 0 10px rgb(0 0 0 / 10%);
+    transition: all .2s;
+    -moz-transition: all .2s;
+    -webkit-transition: all .2s;
+}
+
+.iwptp-presets__item__name__select {
+    background-color: #2196F3;
+}
+
+.iwptp-presets__item.selected {
+    border-color: #0f9c1d;
+    box-shadow: 0 0 10px rgb(0 0 0 / 10%);
+}
+
+.iwptp-preset-applied-message {
+    background: #fff;
+    border: 2px solid black;
+    max-width: 700px;
+    margin: 40px 0;
+    padding: 30px 40px;
+    position: relative;
+}
+
+ul.iwptp-preset-applied-message__list {
+    list-style: circle !important;
+    padding-left: 20px !important;
+    color: #444;
+    font-size: 18px;
+}
+
+ul.iwptp-preset-applied-message__list li {
+    line-height: 2em;
+}
+
+.iwptp-preset-applied-message__dismiss {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.iwptp-preset-applied-message__dismiss .iwptp-icon svg {
+    width: 30px;
+    height: 30px;
+}
+
+.iwptp-preset-applied-message__shortcode {
+    width: 250px;
+    font-size: 16px;
+    padding: 10px;
+    display: inline-block;
+    height: 40px;
+    margin: 10px 5px 10px 0;
+}
+
+.iwptp-preset-applied-message__shortcode-copy-button {
+    height: 40px;
+    cursor: pointer;
+    background: #2196F3;
+    border: 0 solid black;
+    color: white;
+    border-radius: 4px;
+    padding: 0 10px
+}
+
+.iwptp-preset-applied-message__new-page-icon svg {
+    width: 1em;
+    vertical-align: middle;
+}
+
+.iwptp-preset-applied-message__youtube-icon svg {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
+
+.iwptp-new-template-section-title {
+    width: 100%;
+    font-size: 14px;
+    line-height: 1.2em;
+    letter-spacing: 1px;
+    margin: 0 0 5px;
+    padding: 20px 30px;
+    font-weight: 600;
+    color: #404040;
+    background: #eee;
+    position: relative;
+}
+
+.iwptp-new-template-get-start-button {
+    float: right;
+    height: 38px;
+    font-size: 14px;
+    line-height: 36px;
+}
+
+.iwptp-new-template-get-start-button i {
+    vertical-align: middle;
+    margin-right: 0 !important;
+}

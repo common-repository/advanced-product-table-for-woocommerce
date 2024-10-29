@@ -1,0 +1,3866 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: iThemeland Woocommerce Product Table Pro Lite\n"
+"POT-Creation-Date: 2022-11-06 14:39+0330\n"
+"PO-Revision-Date: 2022-11-06 14:39+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ithemeland-woocommerce-product-table-pro-lite.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: activation/class-activation-controller.php:39
+msgid "Automotive"
+msgstr ""
+
+#: activation/class-activation-controller.php:40
+msgid "AdTech and AdNetwork"
+msgstr ""
+
+#: activation/class-activation-controller.php:41
+msgid "Agency"
+msgstr ""
+
+#: activation/class-activation-controller.php:42
+msgid "B2B Software"
+msgstr ""
+
+#: activation/class-activation-controller.php:43
+msgid "B2C Internet Services"
+msgstr ""
+
+#: activation/class-activation-controller.php:44
+msgid "Classifieds"
+msgstr ""
+
+#: activation/class-activation-controller.php:45
+msgid "Consulting and Market Research"
+msgstr ""
+
+#: activation/class-activation-controller.php:46
+msgid "CPG"
+msgstr ""
+
+#: activation/class-activation-controller.php:47
+msgid "Education"
+msgstr ""
+
+#: activation/class-activation-controller.php:48
+msgid "Education (Student)"
+msgstr ""
+
+#: activation/class-activation-controller.php:49
+msgid "Equity Research"
+msgstr ""
+
+#: activation/class-activation-controller.php:50
+msgid "Financial Services"
+msgstr ""
+
+#: activation/class-activation-controller.php:51
+msgid "Gambling and Gaming"
+msgstr ""
+
+#: activation/class-activation-controller.php:52
+msgid "Hedge Funds and Asset Management"
+msgstr ""
+
+#: activation/class-activation-controller.php:53
+msgid "Investment Banking"
+msgstr ""
+
+#: activation/class-activation-controller.php:54
+msgid "Logistics and Shipping"
+msgstr ""
+
+#: activation/class-activation-controller.php:55
+msgid "Payments"
+msgstr ""
+
+#: activation/class-activation-controller.php:56
+msgid "Pharma and Healthcare"
+msgstr ""
+
+#: activation/class-activation-controller.php:57
+msgid "Private Equity and Venture Capital"
+msgstr ""
+
+#: activation/class-activation-controller.php:58
+msgid "Publishers and Media"
+msgstr ""
+
+#: activation/class-activation-controller.php:59
+msgid "Public Sector, Non Profit, Fraud and Compliance"
+msgstr ""
+
+#: activation/class-activation-controller.php:60
+msgid "Retail and eCommerce"
+msgstr ""
+
+#: activation/class-activation-controller.php:61
+msgid "Telecom"
+msgstr ""
+
+#: activation/class-activation-controller.php:62
+msgid "Travel"
+msgstr ""
+
+#: activation/class-activation-controller.php:63
+msgid "Other"
+msgstr ""
+
+#: activation/views/activation.php:9
+msgid "Congratulations, Your plugin is activated successfully. Let's Go!"
+msgstr ""
+
+#: activation/views/activation.php:25
+msgid "Email"
+msgstr ""
+
+#: activation/views/activation.php:29
+msgid "What is your industry?"
+msgstr ""
+
+#: activation/views/activation.php:31 editor/partials/settings.php:43
+#: editor/partials/settings.php:56 presets/presets.php:49
+#: presets/presets.php:86 presets/presets.php:109
+#: templates/select_variation.php:42
+msgid "Select"
+msgstr ""
+
+#: activation/views/activation.php:44
+msgid "Activate"
+msgstr ""
+
+#: activation/views/activation.php:45
+msgid "Skip"
+msgstr ""
+
+#: editor/editor.php:16 editor/partials/element-editor/partials/category.php:36
+#: editor/partials/element-editor/partials/category_filter.php:64
+#: editor/partials/element-editor/partials/select_variation.php:142
+#: editor/settings.php:9
+msgid "Loading ..."
+msgstr ""
+
+#: editor/editor.php:20 editor/editor.php:102
+msgid "[it_product_table id=\""
+msgstr ""
+
+#: editor/editor.php:26
+msgid "Query"
+msgstr ""
+
+#: editor/editor.php:28
+msgid "Columns"
+msgstr ""
+
+#: editor/editor.php:33 editor/editor.php:62 editor/live-preview-modal.php:8
+msgid "Laptop"
+msgstr ""
+
+#: editor/editor.php:39 editor/editor.php:67 editor/live-preview-modal.php:9
+msgid "Tablet"
+msgstr ""
+
+#: editor/editor.php:45 editor/editor.php:72 editor/live-preview-modal.php:10
+msgid "Phone"
+msgstr ""
+
+#: editor/editor.php:50 editor/editor.php:77
+msgid "Navigation"
+msgstr ""
+
+#: editor/editor.php:51
+msgid "Settings"
+msgstr ""
+
+#: editor/editor.php:53 editor/partials/element-editor/partials/category.php:50
+#: editor/partials/element-editor/partials/element-setting-header.php:3
+msgid "Style"
+msgstr ""
+
+#: editor/editor.php:57 editor/partials/style.php:4
+msgid "Presets"
+msgstr ""
+
+#: editor/editor.php:82
+msgid "Mini cart"
+msgstr ""
+
+#: editor/editor.php:95 editor/editor.php:106
+msgid "Untitled table"
+msgstr ""
+
+#: editor/editor.php:104
+msgid "Copied to Clipboard"
+msgstr ""
+
+#: editor/editor.php:137
+msgid "Expand"
+msgstr ""
+
+#: editor/editor.php:138
+msgid "Contract"
+msgstr ""
+
+#: editor/left-sidebar-help.php:2
+msgid ""
+"In this section, you can specify which products to display in the table."
+msgstr ""
+
+#: editor/left-sidebar-help.php:3
+msgid "for example:"
+msgstr ""
+
+#: editor/left-sidebar-help.php:6
+msgid ""
+"If you want to display some specific products, select them in the Include "
+"Products field."
+msgstr ""
+
+#: editor/left-sidebar-help.php:7
+msgid ""
+"If you want to display only the products of a specific category, you can "
+"select them through the Include Taxonomies field."
+msgstr ""
+
+#: editor/left-sidebar-help.php:8
+msgid ""
+"If you need the products to be in a certain price range or to display only "
+"featured or on-sale products, all these are available in this section."
+msgstr ""
+
+#: editor/left-sidebar-help.php:13
+msgid ""
+"After specifying the desired products, through this section you can specify "
+"which columns should be displayed for the table. These columns include all "
+"the fields related to the products, plus columns for product selection, "
+"adding to the shopping cart, specifying the quantity, etc.\n"
+"        Note) You can do this for all types of devices (Laptop, Tablet, "
+"Mobile)."
+msgstr ""
+
+#: editor/left-sidebar-help.php:16
+msgid "Follow the steps below to add:"
+msgstr ""
+
+#: editor/left-sidebar-help.php:19
+msgid "1- Click the Add a Column button"
+msgstr ""
+
+#: editor/left-sidebar-help.php:20
+msgid ""
+"2- Specify the desired name for the column (this name is not displayed in "
+"the table and is only for separating the columns)"
+msgstr ""
+
+#: editor/left-sidebar-help.php:21
+msgid "3- Heading: specify the title of the column"
+msgstr ""
+
+#: editor/left-sidebar-help.php:22
+msgid ""
+"4- Cell Template: Select the desired field or element to display in the table"
+msgstr ""
+
+#: editor/left-sidebar-help.php:27
+msgid ""
+"In this section, you can add tools to make it easier for the user to work "
+"with the table. These tools include an advanced search form, tools to "
+"display the shopping cart, table pagination, download table information, "
+"etc.\n"
+"        Note) These elements can be displayed at the top of the table, at "
+"the bottom of the table and also in the sidebar."
+msgstr ""
+
+#: editor/left-sidebar-help.php:30
+msgid "To add these tools, follow the steps below:"
+msgstr ""
+
+#: editor/left-sidebar-help.php:33
+msgid "1- We click the (Add Element) button in the desired area"
+msgstr ""
+
+#: editor/left-sidebar-help.php:34
+msgid "2- Select the desired element with desired settings"
+msgstr ""
+
+#: editor/left-sidebar-help.php:35
+msgid ""
+"Note: If you need to display these tools in responsive mode, add them in the "
+"Responsive navigation section"
+msgstr ""
+
+#: editor/left-sidebar-help.php:40
+msgid "General settings of the table are done through this section."
+msgstr ""
+
+#: editor/left-sidebar-help.php:42
+msgid "Some of the settings available in this section include:"
+msgstr ""
+
+#: editor/left-sidebar-help.php:45
+msgid ""
+"1- Display or not display the table for users or a specific group of them"
+msgstr ""
+
+#: editor/left-sidebar-help.php:46
+msgid "2- Freeze Column settings for Laptop, Tablet and Mobile"
+msgstr ""
+
+#: editor/left-sidebar-help.php:47
+msgid "3- Settings related to Freeze Heading for Laptop, Tablet and Mobile"
+msgstr ""
+
+#: editor/left-sidebar-help.php:48
+msgid "4- Displaying variations in separate lines"
+msgstr ""
+
+#: editor/left-sidebar-help.php:49
+msgid "5- Settings related to Loading"
+msgstr ""
+
+#: editor/left-sidebar-help.php:50
+msgid "6- and ..."
+msgstr ""
+
+#: editor/left-sidebar-help.php:55
+msgid ""
+"In this section, you can design the appearance of the table and its "
+"different sections with color, font, etc. <br>\n"
+"        Note: You can use predefined templates (also you can save your "
+"templates and use them for the next tables)"
+msgstr ""
+
+#: editor/left-sidebar-help.php:58
+msgid "Available sections:"
+msgstr ""
+
+#: editor/left-sidebar-help.php:61
+msgid "1- The main table that you can set for all types of devices"
+msgstr ""
+
+#: editor/left-sidebar-help.php:62
+msgid "2- The section related to Navigation"
+msgstr ""
+
+#: editor/left-sidebar-help.php:63
+msgid "3- Shopping cart"
+msgstr ""
+
+#: editor/left-sidebar-help.php:64
+msgid "4- and ..."
+msgstr ""
+
+#: editor/left-sidebar.php:4
+#: ithemeland-woocommerce-product-table-pro-lite.php:220
+msgid "iT Product Table"
+msgstr ""
+
+#: editor/left-sidebar.php:29
+msgid "Exit"
+msgstr ""
+
+#: editor/left-sidebar.php:32
+msgid "Show WordPress Menu"
+msgstr ""
+
+#: editor/left-sidebar.php:35
+msgid "Add new"
+msgstr ""
+
+#: editor/left-sidebar.php:39
+msgid "Duplicate"
+msgstr ""
+
+#: editor/left-sidebar.php:42
+msgid "Move to trash"
+msgstr ""
+
+#: editor/live-preview-modal.php:6
+msgid "Live preview"
+msgstr ""
+
+#: editor/live-preview-modal.php:26 presets/image-preview-modal.php:20
+msgid "Close"
+msgstr ""
+
+#: editor/partials/checklist.php:17
+msgid "Checklist:"
+msgstr ""
+
+#: editor/partials/checklist.php:22
+msgid "Create a query"
+msgstr ""
+
+#: editor/partials/checklist.php:24
+msgid ""
+"Go to the 'Query' tab below and select some criteria for which products to "
+"display. If you leave these settings empty all products in your shop will be "
+"displayed. Remember, you can also use shortcode attributes to modify a "
+"table's query on the fly."
+msgstr ""
+
+#: editor/partials/checklist.php:30
+msgid "Add columns & elements"
+msgstr ""
+
+#: editor/partials/checklist.php:32
+msgid ""
+"Go to the 'Columns' tab below and create at least 1 column in the Laptop "
+"Columns section. Then create at least 1 element in this column. Without any "
+"settings for column and elements, the table has nothing to display."
+msgstr ""
+
+#: editor/partials/checklist.php:38
+msgid "Save the table settings"
+msgstr ""
+
+#: editor/partials/checklist.php:40
+msgid ""
+"You will find the 'Save settings' button at the bottom of the editor. Press "
+"it now to save this table, and move it from 'draft' to 'publish' state. "
+"Please remember to save your table settings whenever you make changes. You "
+"can use Ctrl + s on windows and Cmd + s to conveniently save your settings "
+"at any time."
+msgstr ""
+
+#: editor/partials/column-style.php:4
+msgid "Column style options"
+msgstr ""
+
+#: editor/partials/column-style.php:10
+#: editor/partials/element-editor/partials/cell-row.php:46
+#: editor/partials/element-editor/partials/column-cell-style.php:13
+#: editor/partials/element-editor/partials/column-heading-style.php:7
+#: editor/partials/element-editor/partials/style/common-props.php:52
+#: editor/partials/style/cells.php:3 editor/partials/style/filters.php:3
+#: editor/partials/style/headings.php:14
+msgid "Text align"
+msgstr ""
+
+#: editor/partials/column-style.php:12
+#: editor/partials/element-editor/partials/cell-row.php:49
+#: editor/partials/element-editor/partials/column-cell-style.php:16
+#: editor/partials/element-editor/partials/column-heading-style.php:10
+#: editor/partials/element-editor/partials/pagination.php:34
+#: editor/partials/element-editor/partials/style/common-props.php:55
+#: editor/partials/style/filters.php:5 editor/partials/style/headings.php:16
+msgid "Center"
+msgstr ""
+
+#: editor/partials/column-style.php:13
+#: editor/partials/element-editor/partials/cell-row.php:50
+#: editor/partials/element-editor/partials/column-cell-style.php:17
+#: editor/partials/element-editor/partials/column-heading-style.php:11
+#: editor/partials/element-editor/partials/mini_cart.php:105
+#: editor/partials/element-editor/partials/pagination.php:32
+#: editor/partials/element-editor/partials/style/common-props.php:56
+#: editor/partials/style/filters.php:6 editor/partials/style/headings.php:17
+msgid "Left"
+msgstr ""
+
+#: editor/partials/column-style.php:14
+#: editor/partials/element-editor/partials/cell-row.php:51
+#: editor/partials/element-editor/partials/column-cell-style.php:18
+#: editor/partials/element-editor/partials/column-heading-style.php:12
+#: editor/partials/element-editor/partials/mini_cart.php:104
+#: editor/partials/element-editor/partials/pagination.php:33
+#: editor/partials/element-editor/partials/style/common-props.php:57
+#: editor/partials/style/filters.php:7 editor/partials/style/headings.php:18
+msgid "Right"
+msgstr ""
+
+#: editor/partials/column-style.php:15 editor/partials/style/filters.php:8
+#: editor/partials/style/headings.php:19
+msgid "Justify"
+msgstr ""
+
+#: editor/partials/column-style.php:21
+#: editor/partials/element-editor/partials/style/common-props.php:159
+#: editor/partials/style/cells.php:11 editor/partials/style/filters.php:14
+#: editor/partials/style/headings.php:25
+msgid "Vertical align"
+msgstr ""
+
+#: editor/partials/column-style.php:23
+#: editor/partials/element-editor/partials/style/common-props.php:162
+#: editor/partials/style/filters.php:16 editor/partials/style/headings.php:27
+msgid "Middle"
+msgstr ""
+
+#: editor/partials/column-style.php:24
+#: editor/partials/element-editor/partials/style/common-props.php:163
+#: editor/partials/style/filters.php:17 editor/partials/style/headings.php:28
+msgid "Top"
+msgstr ""
+
+#: editor/partials/column-style.php:25
+#: editor/partials/element-editor/partials/style/common-props.php:165
+#: editor/partials/style/filters.php:18 editor/partials/style/headings.php:29
+msgid "Baseline"
+msgstr ""
+
+#: editor/partials/column-style.php:26
+#: editor/partials/element-editor/partials/style/common-props.php:164
+#: editor/partials/style/filters.php:19 editor/partials/style/headings.php:30
+msgid "Bottom"
+msgstr ""
+
+#: editor/partials/column-style.php:32
+#: editor/partials/element-editor/partials/button.php:100
+#: editor/partials/element-editor/partials/button.php:269
+#: editor/partials/element-editor/partials/checkbox.php:64
+#: editor/partials/element-editor/partials/clear_filters.php:29
+#: editor/partials/element-editor/partials/clear_filters.php:72
+#: editor/partials/element-editor/partials/column-cell-style.php:24
+#: editor/partials/element-editor/partials/content.php:96
+#: editor/partials/element-editor/partials/filter_modal.php:15
+#: editor/partials/element-editor/partials/price-style.php:3
+#: editor/partials/element-editor/partials/quantity.php:124
+#: editor/partials/element-editor/partials/quantity.php:188
+#: editor/partials/element-editor/partials/select_variation.php:213
+#: editor/partials/element-editor/partials/select_variation.php:266
+#: editor/partials/element-editor/partials/select_variation.php:309
+#: editor/partials/element-editor/partials/sort_modal.php:13
+#: editor/partials/element-editor/partials/style.php:12
+#: editor/partials/element-editor/partials/style/common-props.php:3
+#: editor/partials/element-editor/partials/style/filter.php:14
+#: editor/partials/element-editor/partials/style/filter.php:100
+#: editor/partials/element-editor/partials/style/filter.php:197
+#: editor/partials/element-editor/partials/style/filter.php:247
+#: editor/partials/element-editor/partials/style/filter__column__dev.php:40
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:10
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:77
+#: editor/partials/style/cells.php:19 editor/partials/style/container.php:22
+#: editor/partials/style/filters.php:25 editor/partials/style/footer.php:17
+#: editor/partials/style/footer.php:109 editor/partials/style/footer.php:212
+#: editor/partials/style/footer.php:301 editor/partials/style/footer.php:363
+#: editor/partials/style/footer.php:412 editor/partials/style/header.php:17
+#: editor/partials/style/header.php:109 editor/partials/style/header.php:212
+#: editor/partials/style/header.php:301 editor/partials/style/header.php:363
+#: editor/partials/style/header.php:412 editor/partials/style/headings.php:36
+#: editor/partials/style/modal.php:11 editor/partials/style/pagination.php:21
+#: editor/partials/style/sidebar.php:23 editor/partials/style/sidebar.php:107
+#: editor/partials/style/sidebar.php:145 editor/partials/style/sidebar.php:180
+msgid "Font size"
+msgstr ""
+
+#: editor/partials/column-style.php:38
+#: editor/partials/element-editor/partials/button.php:118
+#: editor/partials/element-editor/partials/column-cell-style.php:36
+#: editor/partials/element-editor/partials/column-heading-style.php:18
+#: editor/partials/element-editor/partials/filter_modal.php:33
+#: editor/partials/element-editor/partials/price-style.php:9
+#: editor/partials/element-editor/partials/sort_modal.php:31
+#: editor/partials/element-editor/partials/style.php:24
+#: editor/partials/element-editor/partials/style/common-props.php:21
+#: editor/partials/element-editor/partials/style/filter.php:20
+#: editor/partials/element-editor/partials/style/filter.php:106
+#: editor/partials/element-editor/partials/style/filter.php:203
+#: editor/partials/element-editor/partials/style/filter.php:253
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:16
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:83
+#: editor/partials/style/cells.php:34 editor/partials/style/filters.php:31
+#: editor/partials/style/footer.php:35 editor/partials/style/footer.php:115
+#: editor/partials/style/footer.php:218 editor/partials/style/footer.php:369
+#: editor/partials/style/footer.php:418 editor/partials/style/header.php:35
+#: editor/partials/style/header.php:115 editor/partials/style/header.php:218
+#: editor/partials/style/header.php:369 editor/partials/style/header.php:418
+#: editor/partials/style/headings.php:53 editor/partials/style/modal.php:23
+#: editor/partials/style/pagination.php:51 editor/partials/style/sidebar.php:35
+#: editor/partials/style/sidebar.php:119 editor/partials/style/sidebar.php:157
+msgid "Font weight"
+msgstr ""
+
+#: editor/partials/column-style.php:40
+#: editor/partials/element-editor/partials/button.php:120
+#: editor/partials/element-editor/partials/column-cell-style.php:39
+#: editor/partials/element-editor/partials/column-heading-style.php:21
+#: editor/partials/element-editor/partials/filter_modal.php:35
+#: editor/partials/element-editor/partials/price-style.php:11
+#: editor/partials/element-editor/partials/sort_modal.php:33
+#: editor/partials/element-editor/partials/style.php:26
+#: editor/partials/element-editor/partials/style/common-props.php:24
+#: editor/partials/element-editor/partials/style/filter.php:22
+#: editor/partials/element-editor/partials/style/filter.php:109
+#: editor/partials/element-editor/partials/style/filter.php:205
+#: editor/partials/element-editor/partials/style/filter.php:256
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:18
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:85
+#: editor/partials/style/filters.php:33 editor/partials/style/footer.php:38
+#: editor/partials/style/footer.php:117 editor/partials/style/footer.php:221
+#: editor/partials/style/footer.php:371 editor/partials/style/footer.php:421
+#: editor/partials/style/header.php:38 editor/partials/style/header.php:117
+#: editor/partials/style/header.php:221 editor/partials/style/header.php:371
+#: editor/partials/style/header.php:421 editor/partials/style/headings.php:56
+#: editor/partials/style/mini-cart/general.php:53
+msgid "Normal"
+msgstr ""
+
+#: editor/partials/column-style.php:41
+#: editor/partials/element-editor/partials/button.php:121
+#: editor/partials/element-editor/partials/column-cell-style.php:40
+#: editor/partials/element-editor/partials/column-heading-style.php:22
+#: editor/partials/element-editor/partials/filter_modal.php:36
+#: editor/partials/element-editor/partials/price-style.php:12
+#: editor/partials/element-editor/partials/sort_modal.php:34
+#: editor/partials/element-editor/partials/style.php:27
+#: editor/partials/element-editor/partials/style/common-props.php:25
+#: editor/partials/element-editor/partials/style/filter.php:23
+#: editor/partials/element-editor/partials/style/filter.php:110
+#: editor/partials/element-editor/partials/style/filter.php:206
+#: editor/partials/element-editor/partials/style/filter.php:257
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:19
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:86
+#: editor/partials/style/filters.php:34 editor/partials/style/footer.php:39
+#: editor/partials/style/footer.php:118 editor/partials/style/footer.php:222
+#: editor/partials/style/footer.php:372 editor/partials/style/footer.php:422
+#: editor/partials/style/header.php:39 editor/partials/style/header.php:118
+#: editor/partials/style/header.php:222 editor/partials/style/header.php:372
+#: editor/partials/style/header.php:422 editor/partials/style/headings.php:57
+#: editor/partials/style/mini-cart/general.php:54
+msgid "Bold"
+msgstr ""
+
+#: editor/partials/column-style.php:42
+#: editor/partials/element-editor/partials/button.php:122
+#: editor/partials/element-editor/partials/column-cell-style.php:41
+#: editor/partials/element-editor/partials/column-heading-style.php:23
+#: editor/partials/element-editor/partials/filter_modal.php:37
+#: editor/partials/element-editor/partials/price-style.php:13
+#: editor/partials/element-editor/partials/sort_modal.php:35
+#: editor/partials/element-editor/partials/style.php:28
+#: editor/partials/element-editor/partials/style/common-props.php:26
+#: editor/partials/element-editor/partials/style/filter.php:24
+#: editor/partials/element-editor/partials/style/filter.php:111
+#: editor/partials/element-editor/partials/style/filter.php:207
+#: editor/partials/element-editor/partials/style/filter.php:258
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:20
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:87
+#: editor/partials/style/filters.php:35 editor/partials/style/footer.php:40
+#: editor/partials/style/footer.php:119 editor/partials/style/footer.php:223
+#: editor/partials/style/footer.php:373 editor/partials/style/footer.php:423
+#: editor/partials/style/header.php:40 editor/partials/style/header.php:119
+#: editor/partials/style/header.php:223 editor/partials/style/header.php:373
+#: editor/partials/style/header.php:423 editor/partials/style/headings.php:58
+#: editor/partials/style/mini-cart/general.php:55
+msgid "Light"
+msgstr ""
+
+#: editor/partials/column-style.php:48
+#: editor/partials/element-editor/partials/button.php:106
+#: editor/partials/element-editor/partials/button.php:232
+#: editor/partials/element-editor/partials/button.php:275
+#: editor/partials/element-editor/partials/category.php:69
+#: editor/partials/element-editor/partials/checkbox.php:57
+#: editor/partials/element-editor/partials/clear_filters.php:35
+#: editor/partials/element-editor/partials/clear_filters.php:54
+#: editor/partials/element-editor/partials/clear_filters.php:77
+#: editor/partials/element-editor/partials/clear_filters.php:90
+#: editor/partials/element-editor/partials/column-cell-style.php:67
+#: editor/partials/element-editor/partials/column-heading-style.php:49
+#: editor/partials/element-editor/partials/content.php:108
+#: editor/partials/element-editor/partials/filter_modal.php:27
+#: editor/partials/element-editor/partials/price-style.php:19
+#: editor/partials/element-editor/partials/quantity.php:130
+#: editor/partials/element-editor/partials/select_variation.php:272
+#: editor/partials/element-editor/partials/select_variation.php:315
+#: editor/partials/element-editor/partials/sort_modal.php:25
+#: editor/partials/element-editor/partials/style.php:34
+#: editor/partials/element-editor/partials/style/common-props.php:15
+#: editor/partials/element-editor/partials/style/filter.php:30
+#: editor/partials/element-editor/partials/style/filter.php:126
+#: editor/partials/element-editor/partials/style/filter.php:213
+#: editor/partials/element-editor/partials/style/filter.php:273
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:26
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:93
+#: editor/partials/manual-option-and-relabel-rule-rows.php:65
+#: editor/partials/style/cells.php:42 editor/partials/style/container.php:28
+#: editor/partials/style/even_rows.php:9 editor/partials/style/filters.php:41
+#: editor/partials/style/footer.php:29 editor/partials/style/footer.php:125
+#: editor/partials/style/footer.php:238 editor/partials/style/footer.php:379
+#: editor/partials/style/footer.php:438 editor/partials/style/header.php:29
+#: editor/partials/style/header.php:125 editor/partials/style/header.php:238
+#: editor/partials/style/header.php:379 editor/partials/style/header.php:438
+#: editor/partials/style/headings.php:73 editor/partials/style/modal.php:17
+#: editor/partials/style/odd_rows.php:9 editor/partials/style/pagination.php:33
+#: editor/partials/style/sidebar.php:29 editor/partials/style/sidebar.php:113
+#: editor/partials/style/sidebar.php:151
+msgid "Font color"
+msgstr ""
+
+#: editor/partials/column-style.php:54
+#: editor/partials/element-editor/partials/column-cell-style.php:73
+#: editor/partials/element-editor/partials/style.php:40
+#: editor/partials/element-editor/partials/style/common-props.php:63
+#: editor/partials/style/cells.php:48 editor/partials/style/filters.php:47
+#: editor/partials/style/headings.php:79
+msgid "Text transform"
+msgstr ""
+
+#: editor/partials/column-style.php:56
+#: editor/partials/element-editor/partials/button.php:149
+#: editor/partials/element-editor/partials/button.php:290
+#: editor/partials/element-editor/partials/cell-row.php:66
+#: editor/partials/element-editor/partials/checkbox.php:28
+#: editor/partials/element-editor/partials/column-cell-style.php:75
+#: editor/partials/element-editor/partials/product_image.php:161
+#: editor/partials/element-editor/partials/product_image.php:229
+#: editor/partials/element-editor/partials/product_image.php:270
+#: editor/partials/element-editor/partials/quantity.php:37
+#: editor/partials/element-editor/partials/quantity.php:145
+#: editor/partials/element-editor/partials/style.php:42
+#: editor/partials/element-editor/partials/style.php:66
+#: editor/partials/element-editor/partials/style/common-props.php:65
+#: editor/partials/element-editor/partials/style/common-props.php:95
+#: editor/partials/element-editor/partials/style/common-props.php:153
+#: editor/partials/element-editor/partials/style/filter.php:141
+#: editor/partials/element-editor/partials/style/filter.php:312
+#: editor/partials/style/filters.php:49 editor/partials/style/footer.php:75
+#: editor/partials/style/footer.php:322 editor/partials/style/header.php:75
+#: editor/partials/style/header.php:322 editor/partials/style/headings.php:81
+#: editor/partials/style/pagination.php:89 editor/partials/style/sidebar.php:55
+#: editor/partials/style/sidebar.php:82 editor/partials/style/sidebar.php:201
+msgid "None"
+msgstr ""
+
+#: editor/partials/column-style.php:57
+#: editor/partials/element-editor/partials/column-cell-style.php:76
+#: editor/partials/element-editor/partials/style.php:43
+#: editor/partials/element-editor/partials/style/common-props.php:66
+#: editor/partials/style/filters.php:50 editor/partials/style/headings.php:82
+msgid "Upper case"
+msgstr ""
+
+#: editor/partials/column-style.php:58
+#: editor/partials/element-editor/partials/column-cell-style.php:77
+#: editor/partials/element-editor/partials/style.php:44
+#: editor/partials/element-editor/partials/style/common-props.php:67
+#: editor/partials/style/filters.php:51 editor/partials/style/headings.php:83
+msgid "Capitalize"
+msgstr ""
+
+#: editor/partials/column-style.php:59
+#: editor/partials/element-editor/partials/column-cell-style.php:78
+#: editor/partials/element-editor/partials/style.php:45
+#: editor/partials/element-editor/partials/style/common-props.php:68
+#: editor/partials/style/filters.php:52 editor/partials/style/headings.php:84
+msgid "Lower case"
+msgstr ""
+
+#: editor/partials/column-style.php:65
+#: editor/partials/element-editor/partials/button.php:128
+#: editor/partials/element-editor/partials/column-cell-style.php:84
+#: editor/partials/element-editor/partials/style.php:51
+#: editor/partials/element-editor/partials/style/common-props.php:74
+#: editor/partials/style/cells.php:56 editor/partials/style/filters.php:58
+#: editor/partials/style/headings.php:90
+msgid "Letter spacing"
+msgstr ""
+
+#: editor/partials/column-style.php:71
+#: editor/partials/element-editor/partials/button.php:134
+#: editor/partials/element-editor/partials/button.php:238
+#: editor/partials/element-editor/partials/button.php:281
+#: editor/partials/element-editor/partials/category.php:75
+#: editor/partials/element-editor/partials/cell-row.php:57
+#: editor/partials/element-editor/partials/checkbox.php:43
+#: editor/partials/element-editor/partials/clear_filters.php:41
+#: editor/partials/element-editor/partials/clear_filters.php:59
+#: editor/partials/element-editor/partials/column-cell-style.php:90
+#: editor/partials/element-editor/partials/column-heading-style.php:55
+#: editor/partials/element-editor/partials/filter_modal.php:43
+#: editor/partials/element-editor/partials/price-style.php:25
+#: editor/partials/element-editor/partials/product_image.php:214
+#: editor/partials/element-editor/partials/product_image.php:286
+#: editor/partials/element-editor/partials/quantity.php:136
+#: editor/partials/element-editor/partials/sort_modal.php:41
+#: editor/partials/element-editor/partials/style.php:57
+#: editor/partials/element-editor/partials/style/common-props.php:80
+#: editor/partials/element-editor/partials/style/filter.php:42
+#: editor/partials/element-editor/partials/style/filter.php:132
+#: editor/partials/element-editor/partials/style/filter.php:291
+#: editor/partials/element-editor/partials/style/filter__column__dev.php:34
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:32
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:99
+#: editor/partials/manual-option-and-relabel-rule-rows.php:71
+#: editor/partials/style/cells.php:74 editor/partials/style/container.php:16
+#: editor/partials/style/even_rows.php:3 editor/partials/style/filters.php:64
+#: editor/partials/style/footer.php:66 editor/partials/style/footer.php:143
+#: editor/partials/style/footer.php:244 editor/partials/style/footer.php:307
+#: editor/partials/style/footer.php:456 editor/partials/style/header.php:66
+#: editor/partials/style/header.php:143 editor/partials/style/header.php:244
+#: editor/partials/style/header.php:307 editor/partials/style/header.php:456
+#: editor/partials/style/headings.php:96 editor/partials/style/modal.php:5
+#: editor/partials/style/odd_rows.php:3 editor/partials/style/pagination.php:68
+#: editor/partials/style/sidebar.php:17 editor/partials/style/sidebar.php:186
+msgid "Background color"
+msgstr ""
+
+#: editor/partials/column-style.php:77
+#: editor/partials/element-editor/partials/button.php:177
+#: editor/partials/element-editor/partials/button.php:300
+#: editor/partials/element-editor/partials/cell-row.php:37
+#: editor/partials/element-editor/partials/column-cell-style.php:96
+#: editor/partials/element-editor/partials/column-heading-style.php:61
+#: editor/partials/element-editor/partials/content.php:137
+#: editor/partials/element-editor/partials/price-style.php:31
+#: editor/partials/element-editor/partials/product_image.php:177
+#: editor/partials/element-editor/partials/product_image.php:292
+#: editor/partials/element-editor/partials/select_variation.php:237
+#: editor/partials/element-editor/partials/select_variation.php:284
+#: editor/partials/element-editor/partials/select_variation.php:327
+#: editor/partials/element-editor/partials/style.php:103
+#: editor/partials/element-editor/partials/style/common-props.php:129
+#: editor/partials/element-editor/partials/style/filter.php:72
+#: editor/partials/element-editor/partials/style/filter.php:169
+#: editor/partials/element-editor/partials/style/filter.php:219
+#: editor/partials/element-editor/partials/style/filter.php:346
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:50
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:123
+#: editor/partials/style/cells.php:80 editor/partials/style/container.php:57
+#: editor/partials/style/filters.php:70 editor/partials/style/footer.php:91
+#: editor/partials/style/footer.php:185 editor/partials/style/footer.php:274
+#: editor/partials/style/footer.php:338 editor/partials/style/footer.php:385
+#: editor/partials/style/footer.php:504 editor/partials/style/header.php:91
+#: editor/partials/style/header.php:185 editor/partials/style/header.php:274
+#: editor/partials/style/header.php:338 editor/partials/style/header.php:385
+#: editor/partials/style/header.php:504 editor/partials/style/headings.php:102
+#: editor/partials/style/pagination.php:114
+#: editor/partials/style/sidebar.php:62 editor/partials/style/sidebar.php:89
+#: editor/partials/style/sidebar.php:127 editor/partials/style/sidebar.php:214
+msgid "Padding"
+msgstr ""
+
+#: editor/partials/column-style.php:78
+#: editor/partials/element-editor/partials/button.php:178
+#: editor/partials/element-editor/partials/button.php:187
+#: editor/partials/element-editor/partials/button.php:301
+#: editor/partials/element-editor/partials/cell-row.php:38
+#: editor/partials/element-editor/partials/column-cell-style.php:97
+#: editor/partials/element-editor/partials/column-heading-style.php:62
+#: editor/partials/element-editor/partials/content.php:138
+#: editor/partials/element-editor/partials/content.php:147
+#: editor/partials/element-editor/partials/dot.php:27
+#: editor/partials/element-editor/partials/dot__col.php:26
+#: editor/partials/element-editor/partials/icon__col.php:59
+#: editor/partials/element-editor/partials/price-style.php:32
+#: editor/partials/element-editor/partials/price-style.php:41
+#: editor/partials/element-editor/partials/product_image.php:178
+#: editor/partials/element-editor/partials/product_image.php:187
+#: editor/partials/element-editor/partials/product_image.php:293
+#: editor/partials/element-editor/partials/quantity.php:168
+#: editor/partials/element-editor/partials/quantity.php:207
+#: editor/partials/element-editor/partials/select__variation.php:11
+#: editor/partials/element-editor/partials/select_variation.php:238
+#: editor/partials/element-editor/partials/select_variation.php:247
+#: editor/partials/element-editor/partials/select_variation.php:285
+#: editor/partials/element-editor/partials/select_variation.php:294
+#: editor/partials/element-editor/partials/select_variation.php:328
+#: editor/partials/element-editor/partials/select_variation.php:337
+#: editor/partials/element-editor/partials/sorting.php:190
+#: editor/partials/element-editor/partials/style.php:95
+#: editor/partials/element-editor/partials/style.php:104
+#: editor/partials/element-editor/partials/style/common-props.php:130
+#: editor/partials/element-editor/partials/style/common-props.php:139
+#: editor/partials/element-editor/partials/style/filter.php:73
+#: editor/partials/element-editor/partials/style/filter.php:82
+#: editor/partials/element-editor/partials/style/filter.php:170
+#: editor/partials/element-editor/partials/style/filter.php:179
+#: editor/partials/element-editor/partials/style/filter.php:220
+#: editor/partials/element-editor/partials/style/filter.php:229
+#: editor/partials/element-editor/partials/style/filter.php:347
+#: editor/partials/element-editor/partials/style/filter.php:356
+#: editor/partials/element-editor/partials/style/filter__column__dev.php:47
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:51
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:60
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:124
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:133
+#: editor/partials/style/container.php:49
+#: editor/partials/style/container.php:58 editor/partials/style/filters.php:71
+#: editor/partials/style/footer.php:92 editor/partials/style/footer.php:186
+#: editor/partials/style/footer.php:195 editor/partials/style/footer.php:275
+#: editor/partials/style/footer.php:284 editor/partials/style/footer.php:339
+#: editor/partials/style/footer.php:386 editor/partials/style/footer.php:395
+#: editor/partials/style/footer.php:505 editor/partials/style/footer.php:514
+#: editor/partials/style/header.php:92 editor/partials/style/header.php:186
+#: editor/partials/style/header.php:195 editor/partials/style/header.php:275
+#: editor/partials/style/header.php:284 editor/partials/style/header.php:339
+#: editor/partials/style/header.php:348 editor/partials/style/header.php:386
+#: editor/partials/style/header.php:395 editor/partials/style/header.php:505
+#: editor/partials/style/header.php:514 editor/partials/style/headings.php:103
+#: editor/partials/style/pagination.php:115
+#: editor/partials/style/pagination.php:124
+#: editor/partials/style/sidebar.php:63 editor/partials/style/sidebar.php:90
+#: editor/partials/style/sidebar.php:128 editor/partials/style/sidebar.php:215
+#: editor/partials/style/sidebar.php:224
+msgid "top"
+msgstr ""
+
+#: editor/partials/column-style.php:79
+#: editor/partials/element-editor/partials/button.php:179
+#: editor/partials/element-editor/partials/button.php:188
+#: editor/partials/element-editor/partials/button.php:302
+#: editor/partials/element-editor/partials/cell-row.php:39
+#: editor/partials/element-editor/partials/column-cell-style.php:98
+#: editor/partials/element-editor/partials/column-heading-style.php:63
+#: editor/partials/element-editor/partials/content.php:139
+#: editor/partials/element-editor/partials/content.php:148
+#: editor/partials/element-editor/partials/dot.php:28
+#: editor/partials/element-editor/partials/dot__col.php:27
+#: editor/partials/element-editor/partials/icon__col.php:60
+#: editor/partials/element-editor/partials/price-style.php:33
+#: editor/partials/element-editor/partials/price-style.php:42
+#: editor/partials/element-editor/partials/product_image.php:179
+#: editor/partials/element-editor/partials/product_image.php:188
+#: editor/partials/element-editor/partials/product_image.php:294
+#: editor/partials/element-editor/partials/quantity.php:169
+#: editor/partials/element-editor/partials/quantity.php:208
+#: editor/partials/element-editor/partials/select__variation.php:12
+#: editor/partials/element-editor/partials/select_variation.php:239
+#: editor/partials/element-editor/partials/select_variation.php:248
+#: editor/partials/element-editor/partials/select_variation.php:286
+#: editor/partials/element-editor/partials/select_variation.php:295
+#: editor/partials/element-editor/partials/select_variation.php:329
+#: editor/partials/element-editor/partials/select_variation.php:338
+#: editor/partials/element-editor/partials/sorting.php:191
+#: editor/partials/element-editor/partials/style.php:96
+#: editor/partials/element-editor/partials/style.php:105
+#: editor/partials/element-editor/partials/style/common-props.php:131
+#: editor/partials/element-editor/partials/style/common-props.php:140
+#: editor/partials/element-editor/partials/style/filter.php:74
+#: editor/partials/element-editor/partials/style/filter.php:83
+#: editor/partials/element-editor/partials/style/filter.php:171
+#: editor/partials/element-editor/partials/style/filter.php:180
+#: editor/partials/element-editor/partials/style/filter.php:221
+#: editor/partials/element-editor/partials/style/filter.php:230
+#: editor/partials/element-editor/partials/style/filter.php:348
+#: editor/partials/element-editor/partials/style/filter.php:357
+#: editor/partials/element-editor/partials/style/filter__column__dev.php:48
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:52
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:61
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:125
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:134
+#: editor/partials/style/container.php:50
+#: editor/partials/style/container.php:59 editor/partials/style/filters.php:72
+#: editor/partials/style/footer.php:93 editor/partials/style/footer.php:187
+#: editor/partials/style/footer.php:196 editor/partials/style/footer.php:276
+#: editor/partials/style/footer.php:285 editor/partials/style/footer.php:340
+#: editor/partials/style/footer.php:387 editor/partials/style/footer.php:396
+#: editor/partials/style/footer.php:506 editor/partials/style/footer.php:515
+#: editor/partials/style/header.php:93 editor/partials/style/header.php:187
+#: editor/partials/style/header.php:196 editor/partials/style/header.php:276
+#: editor/partials/style/header.php:285 editor/partials/style/header.php:340
+#: editor/partials/style/header.php:387 editor/partials/style/header.php:396
+#: editor/partials/style/header.php:506 editor/partials/style/header.php:515
+#: editor/partials/style/headings.php:104
+#: editor/partials/style/pagination.php:116
+#: editor/partials/style/pagination.php:125
+#: editor/partials/style/sidebar.php:64 editor/partials/style/sidebar.php:91
+#: editor/partials/style/sidebar.php:129 editor/partials/style/sidebar.php:216
+msgid "right"
+msgstr ""
+
+#: editor/partials/column-style.php:80
+#: editor/partials/element-editor/partials/button.php:180
+#: editor/partials/element-editor/partials/button.php:189
+#: editor/partials/element-editor/partials/button.php:303
+#: editor/partials/element-editor/partials/cell-row.php:40
+#: editor/partials/element-editor/partials/column-cell-style.php:99
+#: editor/partials/element-editor/partials/column-heading-style.php:64
+#: editor/partials/element-editor/partials/content.php:140
+#: editor/partials/element-editor/partials/content.php:149
+#: editor/partials/element-editor/partials/dot.php:29
+#: editor/partials/element-editor/partials/dot__col.php:28
+#: editor/partials/element-editor/partials/icon__col.php:61
+#: editor/partials/element-editor/partials/price-style.php:34
+#: editor/partials/element-editor/partials/price-style.php:43
+#: editor/partials/element-editor/partials/product_image.php:180
+#: editor/partials/element-editor/partials/product_image.php:189
+#: editor/partials/element-editor/partials/product_image.php:295
+#: editor/partials/element-editor/partials/quantity.php:170
+#: editor/partials/element-editor/partials/quantity.php:209
+#: editor/partials/element-editor/partials/select__variation.php:13
+#: editor/partials/element-editor/partials/select_variation.php:240
+#: editor/partials/element-editor/partials/select_variation.php:249
+#: editor/partials/element-editor/partials/select_variation.php:287
+#: editor/partials/element-editor/partials/select_variation.php:296
+#: editor/partials/element-editor/partials/select_variation.php:330
+#: editor/partials/element-editor/partials/select_variation.php:339
+#: editor/partials/element-editor/partials/sorting.php:192
+#: editor/partials/element-editor/partials/style.php:97
+#: editor/partials/element-editor/partials/style.php:106
+#: editor/partials/element-editor/partials/style/common-props.php:132
+#: editor/partials/element-editor/partials/style/common-props.php:141
+#: editor/partials/element-editor/partials/style/filter.php:75
+#: editor/partials/element-editor/partials/style/filter.php:84
+#: editor/partials/element-editor/partials/style/filter.php:172
+#: editor/partials/element-editor/partials/style/filter.php:181
+#: editor/partials/element-editor/partials/style/filter.php:222
+#: editor/partials/element-editor/partials/style/filter.php:231
+#: editor/partials/element-editor/partials/style/filter.php:349
+#: editor/partials/element-editor/partials/style/filter.php:358
+#: editor/partials/element-editor/partials/style/filter__column__dev.php:49
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:53
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:62
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:126
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:135
+#: editor/partials/style/container.php:51
+#: editor/partials/style/container.php:60 editor/partials/style/filters.php:73
+#: editor/partials/style/footer.php:94 editor/partials/style/footer.php:188
+#: editor/partials/style/footer.php:197 editor/partials/style/footer.php:277
+#: editor/partials/style/footer.php:286 editor/partials/style/footer.php:341
+#: editor/partials/style/footer.php:388 editor/partials/style/footer.php:397
+#: editor/partials/style/footer.php:507 editor/partials/style/footer.php:516
+#: editor/partials/style/header.php:94 editor/partials/style/header.php:188
+#: editor/partials/style/header.php:197 editor/partials/style/header.php:277
+#: editor/partials/style/header.php:286 editor/partials/style/header.php:341
+#: editor/partials/style/header.php:349 editor/partials/style/header.php:388
+#: editor/partials/style/header.php:397 editor/partials/style/header.php:507
+#: editor/partials/style/header.php:516 editor/partials/style/headings.php:105
+#: editor/partials/style/pagination.php:117
+#: editor/partials/style/pagination.php:126
+#: editor/partials/style/sidebar.php:65 editor/partials/style/sidebar.php:92
+#: editor/partials/style/sidebar.php:130 editor/partials/style/sidebar.php:217
+#: editor/partials/style/sidebar.php:225
+msgid "bottom"
+msgstr ""
+
+#: editor/partials/column-style.php:81
+#: editor/partials/element-editor/partials/button.php:181
+#: editor/partials/element-editor/partials/button.php:190
+#: editor/partials/element-editor/partials/button.php:304
+#: editor/partials/element-editor/partials/cell-row.php:41
+#: editor/partials/element-editor/partials/column-cell-style.php:100
+#: editor/partials/element-editor/partials/column-heading-style.php:65
+#: editor/partials/element-editor/partials/content.php:141
+#: editor/partials/element-editor/partials/content.php:150
+#: editor/partials/element-editor/partials/dot.php:30
+#: editor/partials/element-editor/partials/dot__col.php:29
+#: editor/partials/element-editor/partials/icon__col.php:62
+#: editor/partials/element-editor/partials/price-style.php:35
+#: editor/partials/element-editor/partials/price-style.php:44
+#: editor/partials/element-editor/partials/product_image.php:181
+#: editor/partials/element-editor/partials/product_image.php:190
+#: editor/partials/element-editor/partials/product_image.php:296
+#: editor/partials/element-editor/partials/quantity.php:171
+#: editor/partials/element-editor/partials/quantity.php:210
+#: editor/partials/element-editor/partials/select__variation.php:14
+#: editor/partials/element-editor/partials/select_variation.php:241
+#: editor/partials/element-editor/partials/select_variation.php:250
+#: editor/partials/element-editor/partials/select_variation.php:288
+#: editor/partials/element-editor/partials/select_variation.php:297
+#: editor/partials/element-editor/partials/select_variation.php:331
+#: editor/partials/element-editor/partials/select_variation.php:340
+#: editor/partials/element-editor/partials/sorting.php:193
+#: editor/partials/element-editor/partials/style.php:98
+#: editor/partials/element-editor/partials/style.php:107
+#: editor/partials/element-editor/partials/style/common-props.php:133
+#: editor/partials/element-editor/partials/style/common-props.php:142
+#: editor/partials/element-editor/partials/style/filter.php:76
+#: editor/partials/element-editor/partials/style/filter.php:85
+#: editor/partials/element-editor/partials/style/filter.php:173
+#: editor/partials/element-editor/partials/style/filter.php:182
+#: editor/partials/element-editor/partials/style/filter.php:223
+#: editor/partials/element-editor/partials/style/filter.php:232
+#: editor/partials/element-editor/partials/style/filter.php:350
+#: editor/partials/element-editor/partials/style/filter.php:359
+#: editor/partials/element-editor/partials/style/filter__column__dev.php:50
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:54
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:63
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:127
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:136
+#: editor/partials/style/container.php:52
+#: editor/partials/style/container.php:61 editor/partials/style/filters.php:74
+#: editor/partials/style/footer.php:95 editor/partials/style/footer.php:189
+#: editor/partials/style/footer.php:198 editor/partials/style/footer.php:278
+#: editor/partials/style/footer.php:287 editor/partials/style/footer.php:342
+#: editor/partials/style/footer.php:389 editor/partials/style/footer.php:398
+#: editor/partials/style/footer.php:508 editor/partials/style/footer.php:517
+#: editor/partials/style/header.php:95 editor/partials/style/header.php:189
+#: editor/partials/style/header.php:198 editor/partials/style/header.php:278
+#: editor/partials/style/header.php:287 editor/partials/style/header.php:342
+#: editor/partials/style/header.php:389 editor/partials/style/header.php:398
+#: editor/partials/style/header.php:508 editor/partials/style/header.php:517
+#: editor/partials/style/headings.php:106
+#: editor/partials/style/pagination.php:118
+#: editor/partials/style/pagination.php:127
+#: editor/partials/style/sidebar.php:66 editor/partials/style/sidebar.php:93
+#: editor/partials/style/sidebar.php:131 editor/partials/style/sidebar.php:218
+msgid "left"
+msgstr ""
+
+#: editor/partials/columns.php:19
+msgid "Column"
+msgstr ""
+
+#: editor/partials/columns.php:22
+msgid "Column name"
+msgstr ""
+
+#: editor/partials/columns.php:30
+#: editor/partials/element-editor/partials/category_filter.php:7
+#: editor/partials/element-editor/partials/results_per_page.php:14
+#: editor/partials/element-editor/partials/sort_by.php:13
+msgid "Heading"
+msgstr ""
+
+#: editor/partials/columns.php:33 editor/partials/columns.php:56
+msgid "Design"
+msgstr ""
+
+#: editor/partials/columns.php:53
+msgid "Cell Content"
+msgstr ""
+
+#: editor/partials/columns.php:74
+msgid "+ Add a Column"
+msgstr ""
+
+#: editor/partials/element-editor/element-partials.php:14
+msgid "Apply / Reset"
+msgstr ""
+
+#: editor/partials/element-editor/element-partials.php:18
+#: editor/partials/element-editor/partials/html__col.php:3
+msgid "HTML"
+msgstr ""
+
+#: editor/partials/element-editor/element-partials.php:22
+msgid "Download CSV"
+msgstr ""
+
+#: editor/partials/element-editor/partials/add-button-element.php:3
+#: editor/partials/element-editor/partials/add-common-element.php:3
+#: editor/partials/element-editor/partials/add-navigation-filter-heading-element.php:3
+#: editor/partials/element-editor/partials/add-product-link-element.php:3
+#: editor/partials/element-editor/partials/add-term-element-col.php:3
+#: editor/partials/element-editor/partials/add-term-element.php:3
+msgid "Add Element"
+msgstr ""
+
+#: editor/partials/element-editor/partials/add-column-cell-element.php:3
+msgid "Add Element To Cell Template"
+msgstr ""
+
+#: editor/partials/element-editor/partials/add-column-heading-element.php:3
+msgid "Add Element To Column Heading"
+msgstr ""
+
+#: editor/partials/element-editor/partials/add-navigation-footer-element.php:3
+#: editor/partials/element-editor/partials/add-navigation-header-element.php:3
+msgid "Add Navigation Element"
+msgstr ""
+
+#: editor/partials/element-editor/partials/add-on-sale-element.php:3
+msgid "Add On-Sale Element"
+msgstr ""
+
+#: editor/partials/element-editor/partials/add-price-element.php:3
+#: editor/partials/element-editor/partials/add-variation-element.php:3
+msgid "Add Price Element"
+msgstr ""
+
+#: editor/partials/element-editor/partials/add-price-sale-element.php:3
+msgid "Add Price Sale Element"
+msgstr ""
+
+#: editor/partials/element-editor/partials/add-price-variable-element.php:3
+msgid "Add Price Variable Element"
+msgstr ""
+
+#: editor/partials/element-editor/partials/add-property-value-element.php:3
+msgid "Add Property Value Element"
+msgstr ""
+
+#: editor/partials/element-editor/partials/add-rating-element.php:3
+msgid "Add Rating Element"
+msgstr ""
+
+#: editor/partials/element-editor/partials/add-responsive-navigation-element.php:3
+msgid "Add Responsive Navigation Element"
+msgstr ""
+
+#: editor/partials/element-editor/partials/add-tooltip-element-nav.php:3
+#: editor/partials/element-editor/partials/add-tooltip-element.php:3
+msgid "Add ToolTip Element"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:7
+msgid "Use default WooCommerce button from product page"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:14
+#: editor/partials/element-editor/partials/results_per_page.php:33
+#: editor/partials/element-editor/partials/sort_by.php:30
+msgid "Label"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:20
+#: editor/partials/element-editor/tabs/tabs.php:9
+msgid "Link"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:23
+msgid " Open product page"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:24
+msgid " Add to cart via AJAX"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:25
+msgid " Add to cart and refresh page"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:26
+msgid " Add to cart and redirect to cart page"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:27
+msgid " Add to cart and redirect to checkout page"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:28
+msgid " Open external/affiliate link"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:35
+msgid "Custom field containing URL"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:36
+msgid "Custom field containing Media ID"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:37
+msgid "Custom field managed by ACF"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:38
+msgid "Build custom URL with placeholders"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:39
+msgid "Add to cart and redirect to custom URL"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:52
+msgid "Custom field name / meta key"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:58
+#: editor/partials/element-editor/partials/category.php:20
+#: editor/partials/element-editor/partials/product_image.php:48
+msgid "Action on click"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:61
+msgid "Open the link on the same page"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:65
+msgid "Open the link on a new page"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:71
+msgid "Download the file"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:79
+msgid "Output when no custom field value exists"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:94
+msgid "Style for Button"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:112
+msgid "Font color on hover"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:140
+#: editor/partials/element-editor/partials/style/common-props.php:86
+msgid "Background color on hover"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:146
+#: editor/partials/element-editor/partials/button.php:287
+#: editor/partials/element-editor/partials/cell-row.php:63
+#: editor/partials/element-editor/partials/product_image.php:158
+#: editor/partials/element-editor/partials/product_image.php:226
+#: editor/partials/element-editor/partials/product_image.php:267
+#: editor/partials/element-editor/partials/quantity.php:142
+#: editor/partials/element-editor/partials/style.php:63
+#: editor/partials/element-editor/partials/style/common-props.php:92
+#: editor/partials/element-editor/partials/style/filter.php:138
+#: editor/partials/element-editor/partials/style/filter.php:309
+#: editor/partials/style/footer.php:72 editor/partials/style/footer.php:319
+#: editor/partials/style/header.php:72 editor/partials/style/header.php:319
+#: editor/partials/style/pagination.php:86 editor/partials/style/sidebar.php:52
+#: editor/partials/style/sidebar.php:198
+msgid "Border"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:147
+#: editor/partials/element-editor/partials/product_image.php:159
+#: editor/partials/element-editor/partials/product_image.php:227
+#: editor/partials/element-editor/partials/product_image.php:268
+#: editor/partials/element-editor/partials/quantity.php:143
+#: editor/partials/element-editor/partials/style/common-props.php:93
+#: editor/partials/element-editor/partials/style/filter.php:139
+#: editor/partials/element-editor/partials/style/filter.php:310
+#: editor/partials/style/footer.php:73 editor/partials/style/footer.php:320
+#: editor/partials/style/header.php:320 editor/partials/style/pagination.php:87
+#: editor/partials/style/sidebar.php:53 editor/partials/style/sidebar.php:80
+#: editor/partials/style/sidebar.php:199
+msgid "width"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:150
+#: editor/partials/element-editor/partials/button.php:291
+#: editor/partials/element-editor/partials/cell-row.php:67
+#: editor/partials/element-editor/partials/product_image.php:162
+#: editor/partials/element-editor/partials/product_image.php:230
+#: editor/partials/element-editor/partials/product_image.php:271
+#: editor/partials/element-editor/partials/quantity.php:146
+#: editor/partials/element-editor/partials/style.php:67
+#: editor/partials/element-editor/partials/style/common-props.php:96
+#: editor/partials/element-editor/partials/style/filter.php:142
+#: editor/partials/element-editor/partials/style/filter.php:313
+#: editor/partials/style/borders.php:12 editor/partials/style/borders.php:22
+#: editor/partials/style/borders.php:32 editor/partials/style/borders.php:42
+#: editor/partials/style/borders.php:52 editor/partials/style/borders.php:62
+#: editor/partials/style/borders.php:72 editor/partials/style/borders.php:82
+#: editor/partials/style/footer.php:76 editor/partials/style/footer.php:323
+#: editor/partials/style/header.php:76 editor/partials/style/header.php:323
+msgid "Solid"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:151
+#: editor/partials/element-editor/partials/button.php:292
+#: editor/partials/element-editor/partials/cell-row.php:68
+#: editor/partials/element-editor/partials/product_image.php:163
+#: editor/partials/element-editor/partials/product_image.php:231
+#: editor/partials/element-editor/partials/product_image.php:272
+#: editor/partials/element-editor/partials/quantity.php:147
+#: editor/partials/element-editor/partials/style.php:68
+#: editor/partials/element-editor/partials/style/common-props.php:97
+#: editor/partials/element-editor/partials/style/filter.php:143
+#: editor/partials/element-editor/partials/style/filter.php:314
+#: editor/partials/style/footer.php:77 editor/partials/style/footer.php:324
+#: editor/partials/style/header.php:77 editor/partials/style/header.php:324
+msgid "Dashed"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:152
+#: editor/partials/element-editor/partials/button.php:293
+#: editor/partials/element-editor/partials/cell-row.php:69
+#: editor/partials/element-editor/partials/product_image.php:164
+#: editor/partials/element-editor/partials/product_image.php:232
+#: editor/partials/element-editor/partials/product_image.php:273
+#: editor/partials/element-editor/partials/quantity.php:148
+#: editor/partials/element-editor/partials/style.php:69
+#: editor/partials/element-editor/partials/style/common-props.php:98
+#: editor/partials/element-editor/partials/style/filter.php:144
+#: editor/partials/element-editor/partials/style/filter.php:315
+#: editor/partials/style/footer.php:78 editor/partials/style/footer.php:325
+#: editor/partials/style/header.php:78 editor/partials/style/header.php:325
+msgid "Dotted"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:154
+#: editor/partials/element-editor/partials/button.php:160
+#: editor/partials/element-editor/partials/button.php:245
+#: editor/partials/element-editor/partials/button.php:295
+#: editor/partials/element-editor/partials/cell-row.php:71
+#: editor/partials/element-editor/partials/product_image.php:166
+#: editor/partials/element-editor/partials/product_image.php:234
+#: editor/partials/element-editor/partials/product_image.php:275
+#: editor/partials/element-editor/partials/quantity.php:150
+#: editor/partials/element-editor/partials/style/common-props.php:100
+#: editor/partials/element-editor/partials/style/common-props.php:106
+#: editor/partials/element-editor/partials/style/filter.php:146
+#: editor/partials/element-editor/partials/style/filter.php:317
+#: editor/partials/style/borders.php:14 editor/partials/style/borders.php:24
+#: editor/partials/style/borders.php:34 editor/partials/style/borders.php:44
+#: editor/partials/style/borders.php:54 editor/partials/style/borders.php:64
+#: editor/partials/style/borders.php:74 editor/partials/style/borders.php:84
+#: editor/partials/style/footer.php:80 editor/partials/style/footer.php:327
+#: editor/partials/style/header.php:80 editor/partials/style/header.php:327
+#: editor/partials/style/pagination.php:91 editor/partials/style/sidebar.php:57
+#: editor/partials/style/sidebar.php:84 editor/partials/style/sidebar.php:203
+msgid "color"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:159
+#: editor/partials/element-editor/partials/style/common-props.php:105
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:44
+msgid "Border color on hover"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:165
+#: editor/partials/element-editor/partials/cell-row.php:76
+#: editor/partials/element-editor/partials/product_image.php:171
+#: editor/partials/element-editor/partials/product_image.php:239
+#: editor/partials/element-editor/partials/product_image.php:280
+#: editor/partials/element-editor/partials/style.php:76
+#: editor/partials/element-editor/partials/style/common-props.php:111
+#: editor/partials/element-editor/partials/style/filter.php:66
+#: editor/partials/element-editor/partials/style/filter.php:151
+#: editor/partials/element-editor/partials/style/filter.php:334
+#: editor/partials/style/footer.php:85 editor/partials/style/footer.php:179
+#: editor/partials/style/footer.php:256 editor/partials/style/footer.php:332
+#: editor/partials/style/footer.php:492 editor/partials/style/header.php:85
+#: editor/partials/style/header.php:179 editor/partials/style/header.php:256
+#: editor/partials/style/header.php:332 editor/partials/style/header.php:492
+#: editor/partials/style/pagination.php:108
+#: editor/partials/style/sidebar.php:208
+msgid "Border radius"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:171
+msgid "Force width"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:186
+#: editor/partials/element-editor/partials/content.php:146
+#: editor/partials/element-editor/partials/dot.php:26
+#: editor/partials/element-editor/partials/dot__col.php:25
+#: editor/partials/element-editor/partials/icon__col.php:58
+#: editor/partials/element-editor/partials/price-style.php:40
+#: editor/partials/element-editor/partials/product_image.php:186
+#: editor/partials/element-editor/partials/quantity.php:167
+#: editor/partials/element-editor/partials/quantity.php:206
+#: editor/partials/element-editor/partials/select__variation.php:10
+#: editor/partials/element-editor/partials/select_variation.php:246
+#: editor/partials/element-editor/partials/select_variation.php:293
+#: editor/partials/element-editor/partials/select_variation.php:336
+#: editor/partials/element-editor/partials/sorting.php:189
+#: editor/partials/element-editor/partials/style.php:94
+#: editor/partials/element-editor/partials/style/common-props.php:138
+#: editor/partials/element-editor/partials/style/filter.php:81
+#: editor/partials/element-editor/partials/style/filter.php:178
+#: editor/partials/element-editor/partials/style/filter.php:228
+#: editor/partials/element-editor/partials/style/filter.php:355
+#: editor/partials/element-editor/partials/style/filter__column__dev.php:46
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:59
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:132
+#: editor/partials/style/container.php:48 editor/partials/style/footer.php:194
+#: editor/partials/style/footer.php:283 editor/partials/style/footer.php:347
+#: editor/partials/style/footer.php:394 editor/partials/style/footer.php:513
+#: editor/partials/style/header.php:194 editor/partials/style/header.php:283
+#: editor/partials/style/header.php:347 editor/partials/style/header.php:394
+#: editor/partials/style/header.php:513
+#: editor/partials/style/pagination.php:123
+#: editor/partials/style/sidebar.php:223
+msgid "Margin"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:198
+msgid "Style when out of stock"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:204
+msgid "Opacity"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:244
+#: editor/partials/element-editor/partials/category.php:81
+#: editor/partials/element-editor/partials/checkbox.php:50
+#: editor/partials/element-editor/partials/style/filter.php:54
+#: editor/partials/element-editor/partials/style/filter__column__dev.php:28
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:38
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:105
+#: editor/partials/style/footer.php:161 editor/partials/style/footer.php:250
+#: editor/partials/style/header.php:161 editor/partials/style/header.php:250
+msgid "Border color"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:253
+msgid "Style for Cart Badge"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:259
+msgid "Visibility"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:262
+#: editor/partials/style/headings.php:6
+msgid "Hide"
+msgstr ""
+
+#: editor/partials/element-editor/partials/button.php:263
+#: editor/partials/style/headings.php:5
+msgid "Show"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category.php:4
+msgid "Separator between multiple terms"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category.php:11
+#: editor/partials/element-editor/partials/category_filter.php:106
+msgid "Exclude category by slug"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category.php:12
+#: editor/partials/element-editor/partials/category_filter.php:107
+msgid "Enter one category slug per line"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category.php:22
+#: editor/partials/element-editor/partials/product_image.php:51
+msgid "Do nothing"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category.php:23
+msgid "Go to archive page"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category.php:24
+msgid "Trigger matching filter in table navigation"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category.php:31
+msgid "Custom category labels"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category.php:47
+#: editor/partials/element-editor/partials/category_filter.php:74
+msgid "Term name"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category_filter.php:13
+#: editor/partials/element-editor/partials/quantity.php:5
+#: editor/partials/element-editor/partials/results_per_page.php:4
+#: editor/partials/element-editor/partials/select_variation.php:5
+#: editor/partials/element-editor/partials/sort_by.php:4
+msgid "Display type"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category_filter.php:15
+#: editor/partials/element-editor/partials/results_per_page.php:6
+#: editor/partials/element-editor/partials/sort_by.php:6
+msgid "Dropdown"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category_filter.php:16
+#: editor/partials/element-editor/partials/results_per_page.php:7
+#: editor/partials/element-editor/partials/sort_by.php:7
+msgid "Row"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category_filter.php:24
+msgid "Only allow one option to be selected"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category_filter.php:35
+msgid "Enable category redirect"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category_filter.php:43
+msgid "Always display all categories"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category_filter.php:50
+msgid "\"Show All\" option label"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category_filter.php:59
+msgid "Custom term labels"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category_filter.php:77
+msgid "Clear label"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category_filter.php:115
+msgid "Hide empty terms (not attached to any product on the site)"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category_filter.php:122
+#: editor/partials/element-editor/partials/results_per_page.php:58
+#: editor/partials/element-editor/partials/sort_by.php:231
+msgid "Keep filter open by default if it is in sidebar"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category_filter.php:129
+msgid "Pre-open sub accordions till depth"
+msgstr ""
+
+#: editor/partials/element-editor/partials/category_filter.php:141
+msgid "Placeholder for the search input box"
+msgstr ""
+
+#: editor/partials/element-editor/partials/cell-row.php:4
+msgid "Condition for Row"
+msgstr ""
+
+#: editor/partials/element-editor/partials/cell-row.php:19
+msgid "Style for Row"
+msgstr ""
+
+#: editor/partials/element-editor/partials/cell-row.php:25
+msgid "Gap above"
+msgstr ""
+
+#: editor/partials/element-editor/partials/cell-row.php:31
+msgid "Gap below"
+msgstr ""
+
+#: editor/partials/element-editor/partials/cell-row.php:48
+#: editor/partials/element-editor/partials/column-cell-style.php:15
+#: editor/partials/element-editor/partials/column-heading-style.php:9
+#: editor/partials/element-editor/partials/style/common-props.php:54
+msgid "Auto"
+msgstr ""
+
+#: editor/partials/element-editor/partials/checkbox.php:5
+msgid "Enable checkbox in column heading"
+msgstr ""
+
+#: editor/partials/element-editor/partials/checkbox.php:10
+#: editor/partials/element-editor/partials/mini_cart.php:18
+#: editor/partials/style/headings.php:3
+msgid "Toggle"
+msgstr ""
+
+#: editor/partials/element-editor/partials/checkbox.php:12
+#: editor/partials/element-editor/partials/checkbox.php:20
+#: editor/partials/element-editor/partials/mini_cart.php:21
+#: editor/partials/element-editor/partials/mini_cart.php:32
+msgid "Disabled"
+msgstr ""
+
+#: editor/partials/element-editor/partials/checkbox.php:13
+#: editor/partials/element-editor/partials/checkbox.php:21
+#: editor/partials/element-editor/partials/mini_cart.php:22
+#: editor/partials/element-editor/partials/mini_cart.php:33
+msgid "Enabled"
+msgstr ""
+
+#: editor/partials/element-editor/partials/checkbox.php:18
+#: editor/partials/element-editor/partials/mini_cart.php:29
+msgid "Responsive toggle"
+msgstr ""
+
+#: editor/partials/element-editor/partials/checkbox.php:26
+msgid "Redirect to"
+msgstr ""
+
+#: editor/partials/element-editor/partials/checkbox.php:29
+#: editor/partials/element-editor/partials/mini_cart.php:44
+msgid "Cart"
+msgstr ""
+
+#: editor/partials/element-editor/partials/checkbox.php:30
+#: editor/partials/element-editor/partials/mini_cart.php:45
+msgid "Checkout"
+msgstr ""
+
+#: editor/partials/element-editor/partials/checkbox.php:31
+msgid "Refresh page"
+msgstr ""
+
+#: editor/partials/element-editor/partials/checkbox.php:71
+#: editor/partials/element-editor/partials/column-cell-style.php:7
+#: editor/partials/element-editor/partials/content.php:125
+#: editor/partials/element-editor/partials/product_image.php:150
+#: editor/partials/element-editor/partials/quantity.php:155
+#: editor/partials/element-editor/partials/quantity.php:194
+#: editor/partials/element-editor/partials/select_variation.php:225
+#: editor/partials/element-editor/partials/style.php:82
+#: editor/partials/element-editor/partials/style/common-props.php:117
+#: editor/partials/element-editor/partials/style/filter.php:157
+#: editor/partials/element-editor/partials/style/filter.php:340
+#: editor/partials/element-editor/partials/style/filter__column__dev.php:19
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:111
+#: editor/partials/style/footer.php:262 editor/partials/style/footer.php:498
+#: editor/partials/style/header.php:262 editor/partials/style/header.php:498
+#: editor/partials/style/pagination.php:5 editor/partials/style/sidebar.php:5
+msgid "Width"
+msgstr ""
+
+#: editor/partials/element-editor/partials/clear_filters.php:6
+msgid "Hide \"Clear All\" button"
+msgstr ""
+
+#: editor/partials/element-editor/partials/clear_filters.php:13
+msgid "\"Clear All\" button label"
+msgstr ""
+
+#: editor/partials/element-editor/partials/clear_filters.php:24
+msgid "Style for Buttons"
+msgstr ""
+
+#: editor/partials/element-editor/partials/clear_filters.php:49
+msgid "Style for Buttons : Hover"
+msgstr ""
+
+#: editor/partials/element-editor/partials/clear_filters.php:67
+msgid "Style for 'Clear All'"
+msgstr ""
+
+#: editor/partials/element-editor/partials/clear_filters.php:85
+msgid " Style for 'Clear All' : Hover"
+msgstr ""
+
+#: editor/partials/element-editor/partials/column-cell-style.php:30
+#: editor/partials/element-editor/partials/content.php:102
+#: editor/partials/element-editor/partials/filter_modal.php:21
+#: editor/partials/element-editor/partials/select_variation.php:219
+#: editor/partials/element-editor/partials/select_variation.php:278
+#: editor/partials/element-editor/partials/select_variation.php:321
+#: editor/partials/element-editor/partials/sort_modal.php:19
+#: editor/partials/element-editor/partials/style.php:18
+#: editor/partials/element-editor/partials/style/common-props.php:9
+#: editor/partials/style/footer.php:23 editor/partials/style/header.php:23
+#: editor/partials/style/pagination.php:27
+msgid "Line height"
+msgstr ""
+
+#: editor/partials/element-editor/partials/column-cell-style.php:57
+#: editor/partials/element-editor/partials/column-heading-style.php:39
+#: editor/partials/element-editor/partials/content.php:115
+#: editor/partials/element-editor/partials/style/common-props.php:42
+#: editor/partials/style/cells.php:26 editor/partials/style/container.php:35
+#: editor/partials/style/footer.php:56 editor/partials/style/header.php:56
+#: editor/partials/style/headings.php:43
+#: editor/partials/style/mini-cart/general.php:15
+#: editor/partials/style/mini-cart/general.php:38
+#: editor/partials/style/modal.php:32 editor/partials/style/pagination.php:60
+#: editor/partials/style/sidebar.php:44
+msgid "Font family"
+msgstr ""
+
+#: editor/partials/element-editor/partials/column-cell-style.php:58
+#: editor/partials/element-editor/partials/column-heading-style.php:40
+#: editor/partials/element-editor/partials/content.php:116
+#: editor/partials/element-editor/partials/style/common-props.php:43
+#: editor/partials/style/container.php:36 editor/partials/style/footer.php:57
+#: editor/partials/style/header.php:57 editor/partials/style/headings.php:44
+#: editor/partials/style/mini-cart/general.php:16
+#: editor/partials/style/mini-cart/general.php:39
+msgid "Sample Text"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:5
+msgid "Show element only if ALL conditions are met"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:6
+msgid "Hide element only if ALL conditions are met"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:7
+msgid "Show element if ANY condition is met"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:8
+msgid "Hide element if ANY condition is met"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:16
+msgid "Add custom field condition"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:24
+#: editor/partials/element-editor/partials/sort_by.php:61
+msgid "Custom field name"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:47
+msgid "Add attribute condition"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:54
+#: editor/partials/element-editor/partials/select_variation.php:132
+msgid "Attribute"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:93
+msgid "Add category condition"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:116
+msgid "Add price condition"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:141
+#: editor/partials/element-editor/partials/condition/inner.php:166
+msgid "Add stock condition"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:172
+msgid "Product types:"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:193
+msgid "Add store timings condition"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:200
+msgid "Select the shop's timezone"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:238
+msgid "Add user role condition"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/inner.php:244
+msgid "User roles:"
+msgstr ""
+
+#: editor/partials/element-editor/partials/condition/outer.php:4
+msgid "Condition for Element"
+msgstr ""
+
+#: editor/partials/element-editor/partials/content.php:5
+msgid "Limit word count"
+msgstr ""
+
+#: editor/partials/element-editor/partials/content.php:13
+msgid "Truncation symbol (…)"
+msgstr ""
+
+#: editor/partials/element-editor/partials/content.php:17
+msgid "Keep it"
+msgstr ""
+
+#: editor/partials/element-editor/partials/content.php:21
+msgid "Hide it"
+msgstr ""
+
+#: editor/partials/element-editor/partials/content.php:25
+msgid "Enter custom symbol"
+msgstr ""
+
+#: editor/partials/element-editor/partials/content.php:32
+msgid "Enter custom truncation symbol"
+msgstr ""
+
+#: editor/partials/element-editor/partials/content.php:40
+msgid "'Read more' label"
+msgstr ""
+
+#: editor/partials/element-editor/partials/content.php:41
+msgid "Leave empty to hide 'read more' link"
+msgstr ""
+
+#: editor/partials/element-editor/partials/content.php:55
+msgid "Show more label"
+msgstr ""
+
+#: editor/partials/element-editor/partials/content.php:61
+msgid "Show less label"
+msgstr ""
+
+#: editor/partials/element-editor/partials/content.php:69
+msgid "Action on shortcodes in content"
+msgstr ""
+
+#: editor/partials/element-editor/partials/content.php:73
+msgid "Process once at end of table creation (efficient, default)"
+msgstr ""
+
+#: editor/partials/element-editor/partials/content.php:77
+msgid "Remove all shortcodes from the content before printing"
+msgstr ""
+
+#: editor/partials/element-editor/partials/content.php:81
+msgid "Process under individual product context"
+msgstr ""
+
+#: editor/partials/element-editor/partials/content.php:131
+#: editor/partials/element-editor/partials/product_image.php:259
+msgid "Max width"
+msgstr ""
+
+#: editor/partials/element-editor/partials/dot.php:10
+#: editor/partials/element-editor/partials/dot__col.php:13
+#: editor/partials/element-editor/partials/icon__col.php:34
+#: editor/partials/element-editor/partials/sorting.php:183
+msgid "Size"
+msgstr ""
+
+#: editor/partials/element-editor/partials/dot.php:16
+#: editor/partials/element-editor/partials/dot__col.php:18
+#: editor/partials/element-editor/partials/product_image.php:208
+msgid "Color"
+msgstr ""
+
+#: editor/partials/element-editor/partials/element-setting-header.php:2
+#: editor/partials/style.php:110 editor/settings.php:18
+msgid "General"
+msgstr ""
+
+#: editor/partials/element-editor/partials/filter_modal.php:3
+#: editor/partials/element-editor/partials/sort_modal.php:3
+msgid "Button label"
+msgstr ""
+
+#: editor/partials/element-editor/partials/font-family/font-family-options.php:1
+#: editor/partials/element-editor/partials/mini_cart.php:6
+#: editor/partials/element-editor/partials/space.php:13
+#: editor/partials/element-editor/partials/space__col.php:13
+#: editor/partials/settings.php:339 editor/partials/settings.php:352
+msgid "Default"
+msgstr ""
+
+#: editor/partials/element-editor/partials/heading_format__op_selected.php:6
+msgid "Heading format when option is selected"
+msgstr ""
+
+#: editor/partials/element-editor/partials/heading_format__op_selected.php:10
+msgid "Only show filter heading"
+msgstr ""
+
+#: editor/partials/element-editor/partials/heading_format__op_selected.php:14
+msgid "Show filter heading and selected option"
+msgstr ""
+
+#: editor/partials/element-editor/partials/heading_format__op_selected.php:18
+msgid "Replace heading with selected option"
+msgstr ""
+
+#: editor/partials/element-editor/partials/html-class.php:2
+#: editor/partials/style.php:131
+msgid "HTML Class"
+msgstr ""
+
+#: editor/partials/element-editor/partials/icon__col.php:3
+msgid "Icon name"
+msgstr ""
+
+#: editor/partials/element-editor/partials/icon__col.php:20
+#: editor/partials/element-editor/partials/mini_cart.php:92
+#: editor/partials/element-editor/partials/sort_by.php:38
+#: editor/partials/element-editor/partials/sorting.php:7
+#: editor/partials/query.php:95
+msgid "Title"
+msgstr ""
+
+#: editor/partials/element-editor/partials/icon__col.php:21
+msgid "Text that shows up on mouse hover"
+msgstr ""
+
+#: editor/partials/element-editor/partials/icon__col.php:40
+msgid "Stroke color"
+msgstr ""
+
+#: editor/partials/element-editor/partials/icon__col.php:46
+msgid "Fill color"
+msgstr ""
+
+#: editor/partials/element-editor/partials/icon__col.php:52
+msgid "Thickness"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:3
+#: editor/partials/element-editor/partials/pagination.php:3
+msgid "Type"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:7
+msgid "Inline mode"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:8
+msgid "Float side [PRO]"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:9
+msgid "Float toggle (Popup) [PRO]"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:40
+msgid "Link to"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:46
+msgid "Custom url"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:53
+msgid "Custom redirect URL"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:61
+msgid "Cost source"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:64
+msgid "Total"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:65
+#: editor/partials/element-editor/partials/mini_cart.php:168
+#: front-scripts.php:680
+msgid "Subtotal"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:73
+msgid "Bottom offset (px)"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:82
+msgid "width (px)"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:101
+msgid "Position"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:113
+msgid "Hide on zero"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:116
+#: editor/partials/element-editor/partials/mini_cart.php:160
+#: editor/partials/element-editor/partials/mini_cart.php:171
+#: editor/partials/element-editor/partials/mini_cart.php:182
+#: editor/partials/element-editor/partials/mini_cart.php:193
+#: editor/partials/element-editor/partials/mini_cart.php:204
+#: editor/partials/query.php:156 editor/partials/settings.php:16
+#: editor/partials/settings.php:30 editor/partials/settings.php:73
+#: editor/partials/settings.php:90 editor/partials/settings.php:107
+#: editor/partials/settings.php:124 editor/partials/settings.php:169
+#: editor/partials/settings.php:214 editor/partials/settings.php:259
+#: editor/partials/settings.php:273 editor/partials/settings.php:293
+#: editor/partials/settings.php:311 editor/partials/settings.php:326
+#: editor/partials/settings.php:368 editor/partials/settings.php:383
+msgid "Enable"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:117
+#: editor/partials/element-editor/partials/mini_cart.php:161
+#: editor/partials/element-editor/partials/mini_cart.php:172
+#: editor/partials/element-editor/partials/mini_cart.php:183
+#: editor/partials/element-editor/partials/mini_cart.php:194
+#: editor/partials/element-editor/partials/mini_cart.php:205
+#: editor/partials/navigation.php:22
+msgid "Disable"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:125
+msgid "Float Position"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:128
+#: editor/partials/element-editor/partials/product_image.php:80
+msgid "Bottom right"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:129
+msgid "Bottom left"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:130
+msgid "Top right"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:131
+msgid "Top left"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:139
+msgid "Button Size"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:148
+msgid "Button text"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:157
+msgid "Show total"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:179
+msgid "Empty cart button"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:190
+msgid "View checkout button"
+msgstr ""
+
+#: editor/partials/element-editor/partials/mini_cart.php:201
+msgid "View cart button"
+msgstr ""
+
+#: editor/partials/element-editor/partials/pagination.php:5
+msgid "Number"
+msgstr ""
+
+#: editor/partials/element-editor/partials/pagination.php:6
+msgid "Next / Prev"
+msgstr ""
+
+#: editor/partials/element-editor/partials/pagination.php:11
+msgid "Next Text"
+msgstr ""
+
+#: editor/partials/element-editor/partials/pagination.php:12
+#: editor/partials/element-editor/partials/pagination.php:20
+msgid "For example:"
+msgstr ""
+
+#: editor/partials/element-editor/partials/pagination.php:19
+msgid "Prev Text"
+msgstr ""
+
+#: editor/partials/element-editor/partials/pagination.php:30
+msgid "Align"
+msgstr ""
+
+#: editor/partials/element-editor/partials/price.php:6
+msgid "Use the default WooCommerce price template"
+msgstr ""
+
+#: editor/partials/element-editor/partials/price.php:14
+msgid "Price template"
+msgstr ""
+
+#: editor/partials/element-editor/partials/price.php:22
+msgid "Sale price template"
+msgstr ""
+
+#: editor/partials/element-editor/partials/price.php:30
+msgid "Variable / grouped product price template"
+msgstr ""
+
+#: editor/partials/element-editor/partials/price__variation.php:12
+msgid "Style for Sale Price"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:5
+msgid "Select image file size"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:31
+msgid "Display placeholder if the image is not available"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:52
+msgid "Open product page"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:53
+msgid "Open product page in a new tab"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:54
+msgid "Show full size image in a new tab"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:55
+msgid "Display image in lightbox"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:56
+msgid "Download image"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:63
+msgid "Show lightbox icon when"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:66
+msgid "Always"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:67
+#: editor/partials/element-editor/partials/product_image.php:93
+msgid "Row is hovered upon"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:68
+#: editor/partials/element-editor/partials/product_image.php:94
+msgid "Image is hovered upon"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:69
+msgid "Hide when image is hovered upon"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:70
+#: editor/partials/element-editor/partials/product_image.php:92
+msgid "Never"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:77
+msgid "Lightbox icon position"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:81
+msgid "Outside right"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:88
+msgid "Zoom image when"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:102
+msgid "Zoom scale level"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:114
+msgid "Custom"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:121
+msgid "Custom zoom scale level"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:122
+msgid "Enter a decimal value like 3.0 without any alphabets."
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:143
+msgid "Style for Product Image"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:151
+msgid "Use this option to set the image display width."
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:202
+msgid "Style for LightBox Icon"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:220
+msgid "Size (px)"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:252
+msgid "Style for Offset Zoom Image"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_image.php:260
+msgid "Image width can be smaller but will never exceed this value"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_link.php:6
+msgid "Content"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_link.php:17
+msgid "Open on"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_link.php:19
+msgid "Same page"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_link.php:20
+msgid "New page"
+msgstr ""
+
+#: editor/partials/element-editor/partials/product_link.php:27
+msgid "Link Suffix"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:7
+msgid "Input box (numeric input field)"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:8
+msgid "Dropdown (select field)"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:15
+msgid "Max quantity (default)"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:23
+msgid "Quantity label"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:35
+msgid "Controls"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:38
+msgid "Browser default"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:39
+msgid "Left edge"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:40
+msgid "Right edge"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:41
+msgid "Edges"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:48
+msgid "Initial value"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:50
+msgid "Minimum quantity"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:52
+msgid "Empty"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:58
+msgid "Return to initial value after add to cart (also clears checkbox)"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:66
+msgid "Reset to minimum quantity when variation is changed"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:76
+msgid "Warning when user enters value exceeding min quantity"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:77
+#: editor/partials/element-editor/partials/quantity.php:86
+#: editor/partials/element-editor/partials/quantity.php:95
+msgid "Use placeholder"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:85
+msgid "Warning when user enters value below min quantity"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:94
+msgid "Warning when user enters value not following step requirement"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:118
+msgid "Style for Element"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:161
+#: editor/partials/element-editor/partials/quantity.php:200
+#: editor/partials/element-editor/partials/select_variation.php:231
+#: editor/partials/element-editor/partials/style.php:88
+#: editor/partials/element-editor/partials/style/common-props.php:123
+#: editor/partials/element-editor/partials/style/filter__column__dev.php:11
+#: editor/partials/style/cells.php:68 editor/partials/style/footer.php:313
+#: editor/partials/style/header.php:313 editor/partials/style/sidebar.php:192
+msgid "Height"
+msgstr ""
+
+#: editor/partials/element-editor/partials/quantity.php:182
+msgid "Style for Select element"
+msgstr ""
+
+#: editor/partials/element-editor/partials/results_per_page.php:15
+msgid "Optional. You may use [limit] for current setting's max posts per page."
+msgstr ""
+
+#: editor/partials/element-editor/partials/results_per_page.php:21
+msgid "Options"
+msgstr ""
+
+#: editor/partials/element-editor/partials/results_per_page.php:39
+msgid "Results"
+msgstr ""
+
+#: editor/partials/element-editor/partials/results_per_page.php:49
+#: editor/partials/element-editor/partials/sort_by.php:222
+#: editor/partials/manual-option-and-relabel-rule-rows.php:86
+msgid "Add an Option"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:8
+msgid "Dropdown with all variations"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:9
+msgid "Radio buttons for all variations"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:10
+msgid "Single radio button &mdash; for 1 variation"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:20
+msgid "Hide attributes from variation name"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:22
+msgid "Eg: \"Size: Large, Gluten: Gluten free\" becomes \"Large, Gluten free\""
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:29
+msgid "Separator between each attribute and it's term"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:31
+msgid ""
+"A character to show separation between the attribute and the term. Eg: : - "
+"&mdash;"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:39
+msgid "Separator between different attributes"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:41
+msgid "A character to show separation between the attributes. Eg: , | & ::"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:56
+msgid "Hide the 'Select' option if default variation is available"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:63
+msgid "Label for the 'Select' option"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:65
+msgid "Appears when no default variation is selected"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:78
+msgid "Show options in separate lines"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:90
+msgid "Hide stock"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:98
+msgid "Hide price"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:105
+msgid "Output template when product is not variable"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:117
+msgid "Variation name"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:118
+msgid "Give this variation a name"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:126
+msgid "Specify all attribute-terms of this variation"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:127
+msgid "This list will help IWPTPL identify the variation"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:140
+msgid "Term"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:147
+msgid "Add another"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:154
+msgid "Template"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:155
+msgid "Placeholder"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:162
+msgid "Output if this variation does not exist for the product"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:163
+msgid "Leave empty for no output"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:179
+#: editor/partials/element-editor/partials/select_variation.php:260
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:4
+#: editor/partials/element-editor/partials/style/parent-child.php:5
+msgid "Style for Container"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:187
+msgid "Style when variation is 'Out of Stock'"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:195
+msgid "Style when variation is 'Selected'"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:207
+msgid "Style for Dropdown"
+msgstr ""
+
+#: editor/partials/element-editor/partials/select_variation.php:303
+msgid "Style for Option"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sku.php:7
+msgid "Link SKU to the product's page"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sku.php:15
+#: editor/partials/element-editor/partials/title.php:12
+msgid "Open the product link on a new page"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:18
+msgid "Sort Options"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:36
+msgid "Order by"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:39
+msgid "Price low to high"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:40
+msgid "Price high to low"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:41
+#: editor/partials/element-editor/partials/sorting.php:9
+#: editor/partials/query.php:97
+msgid "Menu order"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:42
+#: editor/partials/element-editor/partials/sorting.php:10
+#: editor/partials/query.php:101
+msgid "Popularity (sales)"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:43
+#: editor/partials/query.php:98
+msgid "Average rating"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:44
+#: editor/partials/query.php:102
+msgid "Random"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:45
+#: editor/partials/element-editor/partials/sorting.php:12
+#: editor/partials/query.php:96
+msgid "Date"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:47
+#: editor/partials/element-editor/partials/sorting.php:14
+#: templates/category_filter.php:23 templates/category_filter.php:421
+#: templates/category_filter.php:426 templates/category_filter.php:430
+msgid "Category"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:48
+#: editor/partials/element-editor/partials/sorting.php:15
+msgid "Attribute: as text"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:49
+#: editor/partials/element-editor/partials/sorting.php:16
+msgid "Attribute: as number"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:50
+#: editor/partials/element-editor/partials/sorting.php:17
+msgid "Taxonomy"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:51
+#: editor/partials/element-editor/partials/sorting.php:19
+#: editor/partials/query.php:111
+msgid "Custom field: as number"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:52
+#: editor/partials/element-editor/partials/sorting.php:20
+#: editor/partials/query.php:110
+msgid "Custom field: as text"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:53
+#: editor/partials/element-editor/partials/sorting.php:21
+#: editor/partials/query.php:112
+msgid "Product ID"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:54
+#: editor/partials/element-editor/partials/sorting.php:22
+#: editor/partials/query.php:113
+msgid "SKU: as text"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:55
+#: editor/partials/element-editor/partials/sorting.php:23
+msgid "SKU: as integer"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:69
+#: editor/partials/element-editor/partials/sorting.php:36
+msgid "Ignore categories"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:70
+#: editor/partials/element-editor/partials/sort_by.php:80
+#: editor/partials/element-editor/partials/sorting.php:37
+#: editor/partials/element-editor/partials/sorting.php:47
+msgid "Optional. Enter one category slug per line"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:79
+#: editor/partials/element-editor/partials/sorting.php:46
+msgid "Focus categories"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:91
+#: editor/partials/element-editor/partials/sorting.php:58
+msgid "Orderby attribute"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:94
+#: editor/partials/element-editor/partials/sorting.php:61
+msgid "Select an attribute here"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:110
+#: editor/partials/element-editor/partials/sorting.php:77
+msgid "Ignore attribute terms"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:112
+#: editor/partials/element-editor/partials/sort_by.php:123
+#: editor/partials/element-editor/partials/sorting.php:79
+#: editor/partials/element-editor/partials/sorting.php:90
+msgid "Optional. Enter one attribute term slug per line"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:121
+#: editor/partials/element-editor/partials/sorting.php:88
+msgid "Focus attribute terms"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:133
+#: editor/partials/element-editor/partials/sort_by.php:200
+#: editor/partials/element-editor/partials/sorting.php:100
+#: editor/partials/element-editor/partials/sorting.php:167
+msgid "Include all"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:134
+#: editor/partials/element-editor/partials/sorting.php:101
+msgid "Show products that don't have the attribute, after sorted products"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:143
+#: editor/partials/element-editor/partials/sorting.php:110
+msgid "Orderby taxonomy"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:146
+#: editor/partials/element-editor/partials/sorting.php:113
+msgid "Select a taxonomy here"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:177
+#: editor/partials/element-editor/partials/sorting.php:144
+msgid "Ignore taxonomy terms"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:179
+#: editor/partials/element-editor/partials/sort_by.php:190
+#: editor/partials/element-editor/partials/sorting.php:146
+#: editor/partials/element-editor/partials/sorting.php:157
+msgid "Optional. Enter one taxonomy term slug per line"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:188
+#: editor/partials/element-editor/partials/sorting.php:155
+msgid "Focus taxonomy terms"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:201
+#: editor/partials/element-editor/partials/sorting.php:168
+msgid "Show products that don't have the taxonomy, after sorted products"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:209
+msgid "Order"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:211
+msgid "Low to high"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sort_by.php:212
+msgid "High to low"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sorting.php:5
+msgid "Sort by"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sorting.php:8
+msgid "Price"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sorting.php:11
+msgid "Rating"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sorting.php:28
+msgid "Sort by custom field key"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sorting.php:202
+msgid "Color - inactive"
+msgstr ""
+
+#: editor/partials/element-editor/partials/sorting.php:212
+msgid "Color - active"
+msgstr ""
+
+#: editor/partials/element-editor/partials/space.php:11
+#: editor/partials/element-editor/partials/space__col.php:11
+msgid "Space width"
+msgstr ""
+
+#: editor/partials/element-editor/partials/space.php:12
+#: editor/partials/element-editor/partials/space__col.php:12
+msgid "Create space between adjacent elements."
+msgstr ""
+
+#: editor/partials/element-editor/partials/style.php:4
+msgid "Style Options"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style.php:112
+#: editor/partials/element-editor/partials/style/common-props.php:147
+msgid "Display"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style.php:114
+#: editor/partials/element-editor/partials/style/common-props.php:152
+msgid "Inline-block"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style.php:115
+#: editor/partials/element-editor/partials/style/common-props.php:151
+msgid "Inline"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style.php:116
+#: editor/partials/element-editor/partials/style/common-props.php:150
+msgid "Block"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/filter.php:8
+msgid "Style: Dropdown heading"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/filter.php:36
+#: editor/partials/element-editor/partials/style/filter.php:279
+msgid "Font color hover"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/filter.php:48
+msgid "Background color hover"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/filter.php:60
+#: editor/partials/element-editor/partials/style/filter.php:322
+msgid "Border color hover"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/filter.php:94
+msgid "Style: Dropdown menu"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/filter.php:163
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:117
+#: editor/partials/style/footer.php:268 editor/partials/style/header.php:268
+#: editor/partials/style/sidebar.php:165
+msgid "Max height"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/filter.php:191
+msgid "Style: Row heading"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/filter.php:241
+msgid "Style: Row options"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/filter.php:285
+msgid "Font color selected"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/filter.php:297
+msgid "Bg color hover"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/filter.php:303
+msgid "Bg color selected"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/filter.php:328
+msgid "Border color selected"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/filter__column__dev.php:3
+msgid "Style for Column"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/filter__column__dev.php:12
+msgid "Use can use 'auto'"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/filter__row-and-dropdown__dev.php:71
+msgid "Style for Menu list"
+msgstr ""
+
+#: editor/partials/element-editor/partials/style/parent-child.php:14
+msgid "Style for Terms"
+msgstr ""
+
+#: editor/partials/element-editor/partials/text.php:3
+#: editor/partials/element-editor/partials/text__col.php:4
+msgid "Text"
+msgstr ""
+
+#: editor/partials/element-editor/partials/title.php:5
+msgid "Link title to the product's page"
+msgstr ""
+
+#: editor/partials/element-editor/partials/title.php:18
+msgid "HTML tag"
+msgstr ""
+
+#: editor/partials/element-editor/tabs/index.php:6
+msgid "Cell Template Editor"
+msgstr ""
+
+#: editor/partials/element-editor/tabs/tabs.php:6
+msgid "Term 1"
+msgstr ""
+
+#: editor/partials/element-editor/tabs/tabs.php:12
+msgid "Tooltip"
+msgstr ""
+
+#: editor/partials/element-editor/tabs/tabs.php:18
+#: editor/partials/element-editor/tabs/tabs.php:21
+#: editor/partials/element-editor/tabs/tabs.php:24
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo "
+"consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse "
+"cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat "
+"non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+msgstr ""
+
+#: editor/partials/manual-option-and-relabel-rule-rows.php:29
+msgid "A specific custom field value"
+msgstr ""
+
+#: editor/partials/manual-option-and-relabel-rule-rows.php:30
+msgid "Custom field values within a range"
+msgstr ""
+
+#: editor/partials/manual-option-and-relabel-rule-rows.php:35
+msgid "Custom field value"
+msgstr ""
+
+#: editor/partials/manual-option-and-relabel-rule-rows.php:41
+msgid "Custom field min value"
+msgstr ""
+
+#: editor/partials/manual-option-and-relabel-rule-rows.php:47
+msgid "Custom field max value"
+msgstr ""
+
+#: editor/partials/navigation.php:4
+msgid "Laptop navigation"
+msgstr ""
+
+#: editor/partials/navigation.php:9
+msgid "Warning(s)"
+msgstr ""
+
+#: editor/partials/navigation.php:17
+msgid "Sidebar Settings"
+msgstr ""
+
+#: editor/partials/navigation.php:20
+msgid "Sidebar position"
+msgstr ""
+
+#: editor/partials/navigation.php:28
+msgid "Sidebar Elements"
+msgstr ""
+
+#: editor/partials/navigation.php:40
+msgid "Header"
+msgstr ""
+
+#: editor/partials/navigation.php:50 editor/partials/navigation.php:106
+msgid "Only Left column"
+msgstr ""
+
+#: editor/partials/navigation.php:51 editor/partials/navigation.php:107
+msgid "Left: 70% | Right: 30%"
+msgstr ""
+
+#: editor/partials/navigation.php:52 editor/partials/navigation.php:108
+msgid "Left: 50% | Right: 50%"
+msgstr ""
+
+#: editor/partials/navigation.php:53 editor/partials/navigation.php:109
+msgid "Left: 30% | Right: 70%"
+msgstr ""
+
+#: editor/partials/navigation.php:54 editor/partials/navigation.php:110
+msgid "Only Right column"
+msgstr ""
+
+#: editor/partials/navigation.php:84
+msgid "Add Header Row"
+msgstr ""
+
+#: editor/partials/navigation.php:96
+msgid "Footer"
+msgstr ""
+
+#: editor/partials/navigation.php:139
+msgid "Add Footer Row"
+msgstr ""
+
+#: editor/partials/navigation.php:150
+msgid "Responsive navigation"
+msgstr ""
+
+#: editor/partials/navigation.php:153
+msgid "Leave empty to inherit Laptop navigation"
+msgstr ""
+
+#: editor/partials/query.php:3
+msgid "Include Products"
+msgstr ""
+
+#: editor/partials/query.php:13
+msgid "Exclude Products"
+msgstr ""
+
+#: editor/partials/query.php:23
+msgid "Include Taxonomies"
+msgstr ""
+
+#: editor/partials/query.php:33
+msgid "Exclude Taxonomies"
+msgstr ""
+
+#: editor/partials/query.php:43
+msgid "Product status"
+msgstr ""
+
+#: editor/partials/query.php:46
+msgid "Featured"
+msgstr ""
+
+#: editor/partials/query.php:47
+msgid "On sale"
+msgstr ""
+
+#: editor/partials/query.php:48
+msgid "Only in stock"
+msgstr ""
+
+#: editor/partials/query.php:49
+msgid "Only out of stock"
+msgstr ""
+
+#: editor/partials/query.php:50
+msgid "Hidden products"
+msgstr ""
+
+#: editor/partials/query.php:51
+msgid "Private products"
+msgstr ""
+
+#: editor/partials/query.php:58
+msgid "Price from"
+msgstr ""
+
+#: editor/partials/query.php:66
+msgid "Price to"
+msgstr ""
+
+#: editor/partials/query.php:74
+msgid "Max products per page"
+msgstr ""
+
+#: editor/partials/query.php:82
+msgid "Offset"
+msgstr ""
+
+#: editor/partials/query.php:90
+msgid "Initial orderby"
+msgstr ""
+
+#: editor/partials/query.php:99
+msgid "Price: low to high "
+msgstr ""
+
+#: editor/partials/query.php:100
+msgid "Price: high to low"
+msgstr ""
+
+#: editor/partials/query.php:114
+msgid "SKU: as number"
+msgstr ""
+
+#: editor/partials/query.php:121
+msgid "Custom field to orderby"
+msgstr ""
+
+#: editor/partials/query.php:129
+msgid "Initial order"
+msgstr ""
+
+#: editor/partials/query.php:134
+msgid "Ascending"
+msgstr ""
+
+#: editor/partials/query.php:135
+msgid "Descending"
+msgstr ""
+
+#: editor/partials/query.php:149
+msgid "Hide out of stock items"
+msgstr ""
+
+#: editor/partials/query.php:159
+msgid "To enable this option, please uncheck 'Out of stock visibility'"
+msgstr ""
+
+#: editor/partials/query.php:160
+msgid "here"
+msgstr ""
+
+#: editor/partials/query.php:169
+msgid "Include Product types"
+msgstr ""
+
+#: editor/partials/query.php:186
+msgid "Exclude Product types"
+msgstr ""
+
+#: editor/partials/query.php:204
+msgid "User/Author/Vendor ID"
+msgstr ""
+
+#: editor/partials/query.php:212
+msgid "Include SKUs"
+msgstr ""
+
+#: editor/partials/query.php:214 editor/partials/query.php:223
+msgid "Enter comma separated product SKUs"
+msgstr ""
+
+#: editor/partials/query.php:221
+msgid "Exclude SKUs"
+msgstr ""
+
+#: editor/partials/settings.php:3
+msgid "Instant search"
+msgstr ""
+
+#: editor/partials/settings.php:23
+msgid "Open dropdown on click"
+msgstr ""
+
+#: editor/partials/settings.php:37
+msgid "Show for user roles"
+msgstr ""
+
+#: editor/partials/settings.php:50
+msgid "Hide for user roles"
+msgstr ""
+
+#: editor/partials/settings.php:63
+msgid "Refresh table"
+msgstr ""
+
+#: editor/partials/settings.php:80
+msgid "laptop auto scroll"
+msgstr ""
+
+#: editor/partials/settings.php:97
+msgid "Tablet auto scroll"
+msgstr ""
+
+#: editor/partials/settings.php:114
+msgid "Phone auto scroll"
+msgstr ""
+
+#: editor/partials/settings.php:131
+msgid "Laptop freeze"
+msgstr ""
+
+#: editor/partials/settings.php:145 editor/partials/settings.php:190
+#: editor/partials/settings.php:235
+msgid "Left:"
+msgstr ""
+
+#: editor/partials/settings.php:149 editor/partials/settings.php:194
+#: editor/partials/settings.php:239
+msgid "Right:"
+msgstr ""
+
+#: editor/partials/settings.php:157
+msgid "Laptop freeze heading"
+msgstr ""
+
+#: editor/partials/settings.php:176
+msgid "Tablet freeze"
+msgstr ""
+
+#: editor/partials/settings.php:202
+msgid "Tablet freeze heading"
+msgstr ""
+
+#: editor/partials/settings.php:221
+msgid "Phone freeze"
+msgstr ""
+
+#: editor/partials/settings.php:247
+msgid "Phone freeze heading"
+msgstr ""
+
+#: editor/partials/settings.php:266
+msgid "Lazy load table"
+msgstr ""
+
+#: editor/partials/settings.php:280
+msgid "Hide empty columns"
+msgstr ""
+
+#: editor/partials/settings.php:300
+msgid "Hide empty table"
+msgstr ""
+
+#: editor/partials/settings.php:318
+msgid "Show variation on one row"
+msgstr ""
+
+#: editor/partials/settings.php:333
+msgid "Quick Buy for Multi add to cart"
+msgstr ""
+
+#: editor/partials/settings.php:346
+msgid "Quick Buy for each product"
+msgstr ""
+
+#: editor/partials/settings.php:359
+msgid "Disable ajax"
+msgstr ""
+
+#: editor/partials/settings.php:375
+msgid "Disable url update"
+msgstr ""
+
+#: editor/partials/settings.php:390
+msgid "Loading"
+msgstr ""
+
+#: editor/partials/settings.php:395
+msgid "Overlay Background"
+msgstr ""
+
+#: editor/partials/settings.php:399
+msgid "Image Size"
+msgstr ""
+
+#: editor/partials/style-presets.php:15
+msgid "Import"
+msgstr ""
+
+#: editor/partials/style-presets.php:19 presets/presets.php:64
+#: presets/presets.php:115
+msgid "Premium Version"
+msgstr ""
+
+#: editor/partials/style.php:73
+msgid "Navigation style"
+msgstr ""
+
+#: editor/partials/style.php:106
+msgid "Mini cart style"
+msgstr ""
+
+#: editor/partials/style.php:111
+msgid "Button"
+msgstr ""
+
+#: editor/partials/style.php:112
+msgid "Area"
+msgstr ""
+
+#: editor/partials/style.php:138
+msgid "CSS"
+msgstr ""
+
+#: editor/partials/style.php:143
+msgid "Show selectors"
+msgstr ""
+
+#: editor/partials/style.php:223
+msgid "Enter custom CSS here..."
+msgstr ""
+
+#: editor/partials/style.php:231
+msgid "Save as new preset"
+msgstr ""
+
+#: editor/partials/style.php:232
+msgid "Choose image"
+msgstr ""
+
+#: editor/partials/style/borders.php:5
+msgid "To remove a border set the width to 0px"
+msgstr ""
+
+#: editor/partials/style/borders.php:9
+msgid "Table top"
+msgstr ""
+
+#: editor/partials/style/borders.php:10 editor/partials/style/borders.php:20
+#: editor/partials/style/borders.php:30 editor/partials/style/borders.php:40
+#: editor/partials/style/borders.php:50 editor/partials/style/borders.php:60
+#: editor/partials/style/borders.php:70 editor/partials/style/borders.php:80
+msgid "thickness (px)"
+msgstr ""
+
+#: editor/partials/style/borders.php:19
+msgid "Table right"
+msgstr ""
+
+#: editor/partials/style/borders.php:29
+msgid "Table bottom"
+msgstr ""
+
+#: editor/partials/style/borders.php:39
+msgid "Table left"
+msgstr ""
+
+#: editor/partials/style/borders.php:49
+msgid "Heading row bottom"
+msgstr ""
+
+#: editor/partials/style/borders.php:59
+msgid "Between headings"
+msgstr ""
+
+#: editor/partials/style/borders.php:69
+msgid "Between columns"
+msgstr ""
+
+#: editor/partials/style/borders.php:79
+msgid "Between rows"
+msgstr ""
+
+#: editor/partials/style/cells.php:62
+msgid "Min-width"
+msgstr ""
+
+#: editor/partials/style/container.php:4
+msgid "Direction"
+msgstr ""
+
+#: editor/partials/style/container.php:6
+msgid "Left To Right"
+msgstr ""
+
+#: editor/partials/style/container.php:7
+msgid "Right To Left"
+msgstr ""
+
+#: editor/partials/style/container.php:66
+msgid "Max-width"
+msgstr ""
+
+#: editor/partials/style/footer.php:5 editor/partials/style/header.php:5
+#: editor/partials/style/pagination.php:10 editor/partials/style/sidebar.php:11
+msgid "Gap from table"
+msgstr ""
+
+#: editor/partials/style/footer.php:11 editor/partials/style/header.php:11
+msgid "Gap between rows"
+msgstr ""
+
+#: editor/partials/style/footer.php:104 editor/partials/style/header.php:104
+msgid "Dropdown heading"
+msgstr ""
+
+#: editor/partials/style/footer.php:131 editor/partials/style/footer.php:444
+#: editor/partials/style/header.php:131 editor/partials/style/header.php:444
+#: editor/partials/style/pagination.php:39
+msgid "Font color: hover"
+msgstr ""
+
+#: editor/partials/style/footer.php:137 editor/partials/style/header.php:137
+msgid "Font color: active"
+msgstr ""
+
+#: editor/partials/style/footer.php:149 editor/partials/style/header.php:149
+msgid "Background color: hover"
+msgstr ""
+
+#: editor/partials/style/footer.php:155 editor/partials/style/header.php:155
+msgid "Background color: active"
+msgstr ""
+
+#: editor/partials/style/footer.php:167 editor/partials/style/footer.php:480
+#: editor/partials/style/header.php:167 editor/partials/style/header.php:480
+#: editor/partials/style/pagination.php:96
+msgid "Border color: hover"
+msgstr ""
+
+#: editor/partials/style/footer.php:173 editor/partials/style/header.php:173
+msgid "Border color: active"
+msgstr ""
+
+#: editor/partials/style/footer.php:207 editor/partials/style/header.php:207
+msgid "Dropdown menu"
+msgstr ""
+
+#: editor/partials/style/footer.php:296 editor/partials/style/header.php:296
+msgid "Dropdown search"
+msgstr ""
+
+#: editor/partials/style/footer.php:358 editor/partials/style/header.php:358
+msgid "Row heading"
+msgstr ""
+
+#: editor/partials/style/footer.php:407 editor/partials/style/header.php:407
+msgid "Row options"
+msgstr ""
+
+#: editor/partials/style/footer.php:450 editor/partials/style/header.php:450
+#: editor/partials/style/pagination.php:45
+msgid "Font color: selected"
+msgstr ""
+
+#: editor/partials/style/footer.php:462 editor/partials/style/header.php:462
+#: editor/partials/style/pagination.php:74
+msgid "Bg color: hover"
+msgstr ""
+
+#: editor/partials/style/footer.php:468 editor/partials/style/header.php:468
+#: editor/partials/style/pagination.php:80
+msgid "Bg color: selected"
+msgstr ""
+
+#: editor/partials/style/footer.php:474 editor/partials/style/header.php:474
+msgid "Border: color"
+msgstr ""
+
+#: editor/partials/style/footer.php:486 editor/partials/style/header.php:486
+#: editor/partials/style/pagination.php:102
+msgid "Border color: selected"
+msgstr ""
+
+#: editor/partials/style/mini-cart/area.php:5
+#: editor/partials/style/mini-cart/button.php:5
+msgid "Background"
+msgstr ""
+
+#: editor/partials/style/mini-cart/area.php:14
+msgid "Close button background"
+msgstr ""
+
+#: editor/partials/style/mini-cart/area.php:22
+msgid "Close button color"
+msgstr ""
+
+#: editor/partials/style/mini-cart/area.php:30
+msgid "Product title color"
+msgstr ""
+
+#: editor/partials/style/mini-cart/area.php:38
+msgid "Meta color"
+msgstr ""
+
+#: editor/partials/style/mini-cart/area.php:46
+msgid "Button background"
+msgstr ""
+
+#: editor/partials/style/mini-cart/area.php:52
+msgid "Button color"
+msgstr ""
+
+#: editor/partials/style/mini-cart/area.php:60
+msgid "Button hover background"
+msgstr ""
+
+#: editor/partials/style/mini-cart/area.php:66
+msgid "Button hover color"
+msgstr ""
+
+#: editor/partials/style/mini-cart/area.php:74
+msgid "Border color (For Default and Inline type)"
+msgstr ""
+
+#: editor/partials/style/mini-cart/button.php:11
+msgid "Text color"
+msgstr ""
+
+#: editor/partials/style/mini-cart/button.php:19
+msgid "Subtotal font size"
+msgstr ""
+
+#: editor/partials/style/mini-cart/button.php:30
+msgid "Text font size"
+msgstr ""
+
+#: editor/partials/style/mini-cart/general.php:5
+msgid "Title Font size"
+msgstr ""
+
+#: editor/partials/style/mini-cart/general.php:28
+msgid "Meta Font size"
+msgstr ""
+
+#: editor/partials/style/mini-cart/general.php:50
+msgid "Font weight (For Default type)"
+msgstr ""
+
+#: editor/partials/style/modal.php:45
+msgid "Back button font color"
+msgstr ""
+
+#: editor/partials/style/modal.php:56
+msgid "'Apply' button color"
+msgstr ""
+
+#: editor/partials/style/modal.php:62
+msgid "'Apply' button font color"
+msgstr ""
+
+#: editor/partials/style/modal.php:73
+msgid "'Reset' button color"
+msgstr ""
+
+#: editor/partials/style/modal.php:79
+msgid "'Reset' button font color"
+msgstr ""
+
+#: editor/partials/style/other.php:3
+msgid "Check Row Background color"
+msgstr ""
+
+#: editor/partials/style/pagination.php:137
+msgid "Arrow size"
+msgstr ""
+
+#: editor/partials/style/pagination.php:143
+msgid "Arrow thickness"
+msgstr ""
+
+#: editor/partials/style/sidebar.php:74
+msgid "Section"
+msgstr ""
+
+#: editor/partials/style/sidebar.php:79
+msgid "Divider"
+msgstr ""
+
+#: editor/partials/style/sidebar.php:102
+msgid "Filter heading"
+msgstr ""
+
+#: editor/partials/style/sidebar.php:140
+msgid "Filter menu"
+msgstr ""
+
+#: editor/partials/style/sidebar.php:175
+msgid "Filter search"
+msgstr ""
+
+#: editor/partials/style/sidebar.php:175
+msgid "(For category, tag and attribute filter element)"
+msgstr ""
+
+#: editor/settings-general.php:15 editor/settings-localization.php:18
+msgid "Save settings"
+msgstr ""
+
+#: editor/settings.php:23
+msgid "Localization"
+msgstr ""
+
+#: front-scripts.php:50
+msgid "%price / %period"
+msgstr ""
+
+#: front-scripts.php:57
+msgid "This is not a valid product."
+msgstr ""
+
+#: front-scripts.php:58
+#, php-format
+msgid ""
+"&quot;%%TITLE%%&quot; could not be added to the cart. Please enter a valid, "
+"positive number."
+msgstr ""
+
+#: front-scripts.php:59
+#, php-format
+msgid ""
+"&quot;%%TITLE%%&quot; could not be added to the cart. Please enter at least "
+"%%MINIMUM%%."
+msgstr ""
+
+#: front-scripts.php:60
+#, php-format
+msgid ""
+"&quot;%%TITLE%%&quot; could not be added to the cart. Please enter a higher "
+"amount."
+msgstr ""
+
+#: front-scripts.php:61
+#, php-format
+msgid "Please enter at least %%MINIMUM%%."
+msgstr ""
+
+#: front-scripts.php:62
+msgid "Please enter a higher amount."
+msgstr ""
+
+#: front-scripts.php:63
+#, php-format
+msgid ""
+"&quot;%%TITLE%%&quot; could not be added to the cart. Please enter less than "
+"or equal to %%MAXIMUM%%."
+msgstr ""
+
+#: front-scripts.php:64
+#, php-format
+msgid "Please enter less than or equal to %%MAXIMUM%%."
+msgstr ""
+
+#: front-scripts.php:65
+msgid "Please enter an amount."
+msgstr ""
+
+#: front-scripts.php:66
+#, php-format
+msgid ""
+"&quot;%%TITLE%%&quot; cannot be purchased. Please enter at least %%MINIMUM%%."
+msgstr ""
+
+#: front-scripts.php:67
+#, php-format
+msgid ""
+"&quot;%%TITLE%%&quot; cannot be purchased. Please enter less than or equal "
+"to %%MAXIMUM%%."
+msgstr ""
+
+#: front-scripts.php:76
+msgid ""
+"Sorry, no products matched your selection. Please choose a different "
+"combination."
+msgstr ""
+
+#: front-scripts.php:77 ithemeland-woocommerce-product-table-pro-lite.php:632
+#: ithemeland-woocommerce-product-table-pro-lite.php:647
+msgid ""
+"Please select some product options before adding this product to your cart."
+msgstr ""
+
+#: front-scripts.php:78
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: front-scripts.php:681
+msgid "characters remaining"
+msgstr ""
+
+#: functions.php:2947
+msgid "Remove"
+msgstr ""
+
+#: functions.php:3187
+msgid "Search"
+msgstr ""
+
+#: functions.php:3243 functions.php:3330 templates/category_filter.php:311
+msgid "All"
+msgstr ""
+
+#: functions.php:7145
+msgid "Unfortunately we don't have enough"
+msgstr ""
+
+#: functions.php:8197
+msgid "Login to see prices"
+msgstr ""
+
+#: functions.php:8320
+msgid "Sign up now"
+msgstr ""
+
+#: global-functions.php:565
+msgid ""
+"No product table settings were found for this id. Please try clicking the "
+"\"Save settings\" button at the bottom of the table editor page to save your "
+"table settings."
+msgstr ""
+
+#: global-functions.php:567
+msgid ""
+"It looks like you haven't set any laptop columns for your product table. So, "
+"without any columns, your table has no content to display."
+msgstr ""
+
+#: global-functions.php:569
+msgid ""
+"While you have created at least one column in the Laptop Columns section for "
+"this table, it seems you have not created any elements in the columns. "
+"Please create at least one element in at least one Laptop Column for this "
+"table, then save your table settings and reload this page to see your table."
+msgstr ""
+
+#: global-functions.php:1678
+msgid "Free!"
+msgstr ""
+
+#: global-functions.php:2171
+msgid "Copy to clipboard"
+msgstr ""
+
+#: global-functions.php:2175
+msgid "Copied to Clipboard:"
+msgstr ""
+
+#: global-functions.php:2191
+msgid "Shortcode"
+msgstr ""
+
+#: global-functions.php:2679
+msgid "All of elements are available on Premium Version"
+msgstr ""
+
+#: global-functions.php:2680
+msgid "Get Premium"
+msgstr ""
+
+#. Description of the plugin/theme
+#: ithemeland-woocommerce-product-table-pro-lite.php:25
+msgid ""
+"Allows you to list your WooCommerce products in a searchable and sortable "
+"table layout."
+msgstr ""
+
+#: ithemeland-woocommerce-product-table-pro-lite.php:111
+msgid "Message"
+msgstr ""
+
+#: ithemeland-woocommerce-product-table-pro-lite.php:160
+#: ithemeland-woocommerce-product-table-pro-lite.php:162
+msgid "iT Product Tables"
+msgstr ""
+
+#: ithemeland-woocommerce-product-table-pro-lite.php:161
+msgid "Product Table"
+msgstr ""
+
+#: ithemeland-woocommerce-product-table-pro-lite.php:163
+msgid "Add New Product Table"
+msgstr ""
+
+#: ithemeland-woocommerce-product-table-pro-lite.php:165
+msgid "Easily display your WooCommerce products in responsive tables."
+msgstr ""
+
+#: ithemeland-woocommerce-product-table-pro-lite.php:221
+msgid "All Tables"
+msgstr ""
+
+#: ithemeland-woocommerce-product-table-pro-lite.php:263
+msgid ""
+"WooCommerce Product Table requires at least PHP 5.4.0. Please request you "
+"webhost to update your PHP version or run the plugin on another server to "
+"avoid incompatibility issues and unexpected behaviour."
+msgstr ""
+
+#: ithemeland-woocommerce-product-table-pro-lite.php:273
+msgid ""
+"WooCommerce Product Table requires at least WordPress 4.9.0. Please update "
+"your WordPress version to avoid incompatibility issues and unexpected "
+"behaviour."
+msgstr ""
+
+#: ithemeland-woocommerce-product-table-pro-lite.php:283
+msgid ""
+"WooCommerce Product Table needs the WooCommerce plugin to be installed and "
+"activated on your site!"
+msgstr ""
+
+#: ithemeland-woocommerce-product-table-pro-lite.php:284
+msgid "Install now?"
+msgstr ""
+
+#: ithemeland-woocommerce-product-table-pro-lite.php:299
+msgid ""
+"WooCommerce Product Table requires at least WooCommerce 3.4.4. Please update "
+"your WooCommerce version to avoid incompatibility issues and unexpected "
+"behaviour."
+msgstr ""
+
+#: ithemeland-woocommerce-product-table-pro-lite.php:316
+msgid ""
+"WooCommerce Product Table (IWPTPL) could not find a single 'published' "
+"WooCommerce product on your site! IWPTPL cannot dispaly any products in "
+"tables if you do not have any published products on your site. See:"
+msgstr ""
+
+#: ithemeland-woocommerce-product-table-pro-lite.php:317
+msgid "How to add WooCommerce products"
+msgstr ""
+
+#: presets/image-preview-modal.php:6
+msgid "Image preview"
+msgstr ""
+
+#: presets/presets.php:39
+msgid "Predefined Templates"
+msgstr ""
+
+#: presets/presets.php:47 presets/presets.php:84
+msgid "Blank"
+msgstr ""
+
+#: presets/presets.php:48 presets/presets.php:85 presets/presets.php:108
+msgid "Selected"
+msgstr ""
+
+#: presets/presets.php:76
+msgid "Colored Templates"
+msgstr ""
+
+#: presets/presets.php:128
+msgid "Get Start"
+msgstr ""
+
+#: requests/post-handler.php:46
+msgid "Success !"
+msgstr ""
+
+#: requests/post-handler.php:49
+msgid "System Error !"
+msgstr ""
+
+#: requests/post-handler.php:53
+msgid "Connection Timeout! Please Try Again"
+msgstr ""
+
+#: templates/checkbox.php:17 templates/select_variation.php:114
+#: templates/select_variation.php:198
+msgid "Out of stock"
+msgstr ""
+
+#: templates/form-loading-screen.php:19
+msgid "Loading&hellip;"
+msgstr ""
+
+#: templates/mini_cart_default.php:29
+msgid "Items"
+msgstr ""
+
+#: templates/mini_cart_default.php:31
+msgid "Item"
+msgstr ""
+
+#: templates/mini_cart_default.php:57
+msgid "View Cart"
+msgstr ""
+
+#: templates/modals.php:51
+msgid "Filters"
+msgstr ""
+
+#: templates/modals.php:54
+msgid "Sort"
+msgstr ""
+
+#: templates/modals.php:58
+msgid "Reset"
+msgstr ""
+
+#: templates/modals.php:61
+msgid "Apply"
+msgstr ""
+
+#: templates/price_filter.php:46
+msgid "Price range"
+msgstr ""
+
+#: templates/quantity.php:119
+msgctxt "Product quantity input tooltip"
+msgid "Quantity"
+msgstr ""
+
+#: templates/quantity.php:119
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: templates/sort_by.php:36
+msgid "Relevance"
+msgstr ""
+
+#: templates/sort_by.php:130 templates/sort_by.php:171
+#: templates/sort_by.php:209
+msgid "Sort by "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "iThemeland Woocommerce Product Table Pro Lite"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://ithemelandco.com/woocommerce-product-table-pro"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "iThemelandco"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.ithemelandco.com"
+msgstr ""
