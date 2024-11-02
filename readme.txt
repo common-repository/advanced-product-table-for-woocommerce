@@ -224,6 +224,9 @@ There are some other plugins that are released by ithemelandco:
 <h4>&#9989;&nbsp;<img src="http://ithemelandco.com/Plugins/Documentations/ticks1.png" /><a href="https://ithemelandco.com/plugins/woocommerce-min-max-quantity/?utm_source=wp.org&utm_medium=web_links&utm_campaign=user-lite-buy">WooCommerce Min Max Quantity</a></h4>
 <p>The WooCommerce quantity manager plugin allows you to set item limits, ensuring better control over stock and optimizing the shopping experience.</p>
 
+<h4>&#9989;&nbsp;<img src="http://ithemelandco.com/Plugins/Documentations/ticks1.png" /><a href="https://ithemelandco.com/plugins/role-based-pricing-for-woocommerce/?utm_source=wp.org&utm_medium=web_links&utm_campaign=user-lite-buy">Role Based Pricing for WooCommerce</a></h4>
+<p>WooCommerce Role-Based Pricing Plugin allows shop managers to customize prices based on user roles, offering maximum flexibility and control.</p>
+
 
 <h4>&#9989;&nbsp;<img src="http://ithemelandco.com/Plugins/Documentations/ticks1.png" /><a href="https://codecanyon.net/item/news-ticker-for-elementor/25773124">News Ticker For Elementor</a></h4>
 <p>Display posts and custom posts as Marquee, slide and fade effect in 12 unique layouts.</p>
